@@ -8,7 +8,13 @@
   "latitude": 30.5088,
   "longitude": -95.4919,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "IAH",
+    "CLL",
+    "HOU",
+    "BPT",
+    "TYR"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

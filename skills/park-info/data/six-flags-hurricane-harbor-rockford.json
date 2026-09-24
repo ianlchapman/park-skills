@@ -8,7 +8,13 @@
   "latitude": 42.2459,
   "longitude": -88.9636,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "RFD",
+    "ORD",
+    "MSN",
+    "MDW",
+    "MKE"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

@@ -8,7 +8,13 @@
   "latitude": -27.91297045,
   "longitude": 153.30467189,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "OOL",
+    "BNE",
+    "LSY",
+    "BNK",
+    "MCY"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

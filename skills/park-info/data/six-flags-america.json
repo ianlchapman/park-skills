@@ -8,7 +8,13 @@
   "latitude": 38.9062,
   "longitude": -76.77257,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "DCA",
+    "BWI",
+    "IAD",
+    "DOV",
+    "HGR"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

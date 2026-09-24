@@ -8,7 +8,13 @@
   "latitude": 38.512806,
   "longitude": -90.67505,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "STL",
+    "BLV",
+    "COU",
+    "TBN",
+    "UIN"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

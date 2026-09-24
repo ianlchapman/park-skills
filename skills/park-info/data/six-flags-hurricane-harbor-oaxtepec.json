@@ -8,7 +8,13 @@
   "latitude": 18.8967,
   "longitude": -98.9754,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "MEX",
+    "PBC",
+    "TLC",
+    "NLU",
+    "QRO"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

@@ -8,7 +8,13 @@
   "latitude": 47.860539,
   "longitude": 7.297752,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "BSL",
+    "SXB",
+    "ZRH",
+    "BRN",
+    "FKB"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

@@ -8,7 +8,13 @@
   "latitude": 46.507222,
   "longitude": 3.630556,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "CFE",
+    "LYS",
+    "DLE",
+    "GNB",
+    "GVA"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

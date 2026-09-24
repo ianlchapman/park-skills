@@ -8,7 +8,13 @@
   "latitude": 43.350991,
   "longitude": -73.690112,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "RUT",
+    "ALB",
+    "LEB",
+    "SLK",
+    "BTV"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

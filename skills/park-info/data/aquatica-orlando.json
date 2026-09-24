@@ -8,7 +8,13 @@
   "latitude": 28.41543304,
   "longitude": -81.45566791,
   "tier": "regional",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "MCO",
+    "SFB",
+    "LAL",
+    "MLB",
+    "DAB"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

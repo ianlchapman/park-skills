@@ -8,7 +8,13 @@
   "latitude": 32.7557,
   "longitude": -97.070222,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "DFW",
+    "DAL",
+    "FTW",
+    "MWL",
+    "ACT"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

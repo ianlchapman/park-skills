@@ -8,7 +8,13 @@
   "latitude": 35.5849,
   "longitude": -97.441,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "OKC",
+    "SWO",
+    "LAW",
+    "TUL",
+    "SPS"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

@@ -8,7 +8,13 @@
   "latitude": 54.0769,
   "longitude": 10.78,
   "tier": "regional",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "LBC",
+    "HAM",
+    "RLG",
+    "SGD",
+    "FCN"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

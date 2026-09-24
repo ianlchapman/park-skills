@@ -8,7 +8,13 @@
   "latitude": 28.04174441,
   "longitude": -82.4131981,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "TPA",
+    "PIE",
+    "LAL",
+    "SRQ",
+    "MCO"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

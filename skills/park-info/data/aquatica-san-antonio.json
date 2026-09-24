@@ -8,7 +8,13 @@
   "latitude": 29.45930638,
   "longitude": -98.69817399,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "SAT",
+    "AUS",
+    "VCT",
+    "GRK",
+    "PDS"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

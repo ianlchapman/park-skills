@@ -8,7 +8,13 @@
   "latitude": 33.6962,
   "longitude": -112.1503,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "PHX",
+    "AZA",
+    "PRC",
+    "FLG",
+    "SOW"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

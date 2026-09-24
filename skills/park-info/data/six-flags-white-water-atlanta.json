@@ -8,7 +8,13 @@
   "latitude": 33.958056,
   "longitude": -84.521389,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "PDK",
+    "ATL",
+    "CHA",
+    "MCN",
+    "CSG"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

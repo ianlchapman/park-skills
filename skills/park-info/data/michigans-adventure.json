@@ -8,7 +8,13 @@
   "latitude": 43.3474,
   "longitude": -86.2789,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "MKG",
+    "GRR",
+    "AZO",
+    "MKE",
+    "LAN"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

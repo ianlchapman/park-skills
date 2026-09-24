@@ -8,7 +8,13 @@
   "latitude": 41.709032,
   "longitude": 12.44673,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "CIA",
+    "FCO",
+    "PEG",
+    "PSR",
+    "NAP"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

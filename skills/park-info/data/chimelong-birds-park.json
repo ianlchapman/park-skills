@@ -8,7 +8,13 @@
   "latitude": 23.025,
   "longitude": 113.277,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "FUO",
+    "CAN",
+    "SZX",
+    "MFM",
+    "HKG"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

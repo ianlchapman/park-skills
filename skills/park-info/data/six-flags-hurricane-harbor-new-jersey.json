@@ -8,7 +8,13 @@
   "latitude": 40.137697,
   "longitude": -74.440458,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "TTN",
+    "EWR",
+    "PHL",
+    "ACY",
+    "JFK"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

@@ -8,7 +8,13 @@
   "latitude": 44.798742,
   "longitude": -93.453369,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "MSP",
+    "STC",
+    "RST",
+    "EAU",
+    "MCW"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

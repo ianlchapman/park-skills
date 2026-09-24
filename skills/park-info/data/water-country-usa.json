@@ -8,7 +8,13 @@
   "latitude": 37.26258412,
   "longitude": -76.63706537,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "PHF",
+    "ORF",
+    "RIC",
+    "SBY",
+    "OCE"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

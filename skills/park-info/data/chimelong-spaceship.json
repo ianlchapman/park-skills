@@ -8,7 +8,13 @@
   "latitude": 22.097,
   "longitude": 113.535,
   "tier": "regional",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "MFM",
+    "ZUH",
+    "HKG",
+    "SZX",
+    "FUO"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

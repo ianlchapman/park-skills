@@ -8,7 +8,13 @@
   "latitude": 45.5225,
   "longitude": -73.535,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "YHU",
+    "YUL",
+    "YMX",
+    "PBG",
+    "BTV"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

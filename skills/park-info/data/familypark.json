@@ -8,7 +8,13 @@
   "latitude": 47.801597,
   "longitude": 16.646089,
   "tier": "local",
-  "rankedAirports": [],
+  "rankedAirports": [
+    "VIE",
+    "BTS",
+    "GRZ",
+    "SOB",
+    "BRQ"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {
