@@ -40,6 +40,7 @@ Generated daily by an external pipeline. Don't hand-edit these files.
   "longitude": -1.8864769,
   "tier": "regional",
   "rankedAirports": [],
+  "onSiteHotels": [],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction\n2026-09-25,1,10:00,16:00,30.8\n...",
   "monthlyWeather": [
     { "month": "01", "avgTemp": 3.5, "avgRainfall": 75.3, "avgSunshineHours": 3.9 }
@@ -50,6 +51,8 @@ Generated daily by an external pipeline. Don't hand-edit these files.
 - `latitude` / `longitude`: decimal degrees.
 - `tier`: park size/significance classification (e.g. `regional`).
 - `rankedAirports`: nearest airports, best-served first (may be empty).
+- `onSiteHotels`: official on-site/resort hotel names for the park (empty if
+  none, or if not yet researched — absence doesn't confirm there's no hotel).
 
 ### `crowdCalendar`
 
