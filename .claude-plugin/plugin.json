@@ -1,0 +1,8 @@
+{
+  "name": "park-skills",
+  "description": "A list of theme park skills that can tell AI agents about theme parks",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ian Chapman"
+  }
+}
