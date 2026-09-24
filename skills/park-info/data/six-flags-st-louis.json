@@ -1,0 +1,87 @@
+{
+  "id": 36,
+  "name": "Six Flags St. Louis",
+  "slug": "six-flags-st-louis",
+  "company": "Six Flags Entertainment Corporation",
+  "countryIso": "US",
+  "regionCode": "US-MO",
+  "latitude": 38.512806,
+  "longitude": -90.67505,
+  "tier": "local",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": -0.7993548387096776,
+      "avgRainfall": 63.839999999999996,
+      "avgSunshineHours": 6.471300483870971
+    },
+    {
+      "month": "02",
+      "avgTemp": 3.53404255319149,
+      "avgRainfall": 47.08,
+      "avgSunshineHours": 7.984658944050436
+    },
+    {
+      "month": "03",
+      "avgTemp": 9.72774193548387,
+      "avgRainfall": 132.73999999999998,
+      "avgSunshineHours": 8.524803207885308
+    },
+    {
+      "month": "04",
+      "avgTemp": 14.336,
+      "avgRainfall": 153.52,
+      "avgSunshineHours": 9.311212703703703
+    },
+    {
+      "month": "05",
+      "avgTemp": 18.71290322580645,
+      "avgRainfall": 149.67999999999998,
+      "avgSunshineHours": 10.252753046594977
+    },
+    {
+      "month": "06",
+      "avgTemp": 24.03733333333334,
+      "avgRainfall": 119.18000000000002,
+      "avgSunshineHours": 11.665384703703706
+    },
+    {
+      "month": "07",
+      "avgTemp": 25.783225806451604,
+      "avgRainfall": 140.1,
+      "avgSunshineHours": 11.743608458781363
+    },
+    {
+      "month": "08",
+      "avgTemp": 24.629677419354845,
+      "avgRainfall": 91.07999999999998,
+      "avgSunshineHours": 11.285295215053768
+    },
+    {
+      "month": "09",
+      "avgTemp": 22.017880794701988,
+      "avgRainfall": 44.76666666666667,
+      "avgSunshineHours": 10.437285485651215
+    },
+    {
+      "month": "10",
+      "avgTemp": 15.653548387096775,
+      "avgRainfall": 80.56,
+      "avgSunshineHours": 8.595296935483878
+    },
+    {
+      "month": "11",
+      "avgTemp": 8.43333333333333,
+      "avgRainfall": 63.14,
+      "avgSunshineHours": 7.4765327037037075
+    },
+    {
+      "month": "12",
+      "avgTemp": 4.449032258064514,
+      "avgRainfall": 54.40000000000001,
+      "avgSunshineHours": 5.809229139784947
+    }
+  ]
+}

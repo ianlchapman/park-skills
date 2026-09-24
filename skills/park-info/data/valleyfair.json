@@ -1,0 +1,87 @@
+{
+  "id": 68,
+  "name": "Valleyfair",
+  "slug": "valleyfair",
+  "company": "Cedar Fair Entertainment Company",
+  "countryIso": "US",
+  "regionCode": "US-MN",
+  "latitude": 44.798742,
+  "longitude": -93.453369,
+  "tier": "local",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": -9.156774193548385,
+      "avgRainfall": 22.240000000000002,
+      "avgSunshineHours": 5.489817885304658
+    },
+    {
+      "month": "02",
+      "avgTemp": -5.981560283687944,
+      "avgRainfall": 29.7,
+      "avgSunshineHours": 7.257933687943264
+    },
+    {
+      "month": "03",
+      "avgTemp": 0.7419354838709676,
+      "avgRainfall": 68.83999999999999,
+      "avgSunshineHours": 7.810252706093186
+    },
+    {
+      "month": "04",
+      "avgTemp": 7.100666666666668,
+      "avgRainfall": 113.88,
+      "avgSunshineHours": 8.061584444444447
+    },
+    {
+      "month": "05",
+      "avgTemp": 15.687741935483867,
+      "avgRainfall": 115.46,
+      "avgSunshineHours": 10.720365412186382
+    },
+    {
+      "month": "06",
+      "avgTemp": 21.153333333333343,
+      "avgRainfall": 141.18,
+      "avgSunshineHours": 11.922439425925921
+    },
+    {
+      "month": "07",
+      "avgTemp": 23.4,
+      "avgRainfall": 114.68000000000002,
+      "avgSunshineHours": 12.835149605734772
+    },
+    {
+      "month": "08",
+      "avgTemp": 21.88774193548387,
+      "avgRainfall": 108.5,
+      "avgSunshineHours": 11.229444372759856
+    },
+    {
+      "month": "09",
+      "avgTemp": 19.45099337748344,
+      "avgRainfall": 58.38333333333335,
+      "avgSunshineHours": 10.360415691685068
+    },
+    {
+      "month": "10",
+      "avgTemp": 11.99225806451614,
+      "avgRainfall": 63.8,
+      "avgSunshineHours": 7.912558853046594
+    },
+    {
+      "month": "11",
+      "avgTemp": 2.837333333333333,
+      "avgRainfall": 49.959999999999994,
+      "avgSunshineHours": 5.640897185185185
+    },
+    {
+      "month": "12",
+      "avgTemp": -4.8425806451612905,
+      "avgRainfall": 49.120000000000005,
+      "avgSunshineHours": 4.328145197132617
+    }
+  ]
+}

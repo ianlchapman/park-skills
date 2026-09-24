@@ -1,0 +1,87 @@
+{
+  "id": 333,
+  "name": "Lotte World",
+  "slug": "lotte-world",
+  "company": "Other",
+  "countryIso": "KR",
+  "regionCode": "KR",
+  "latitude": 37.51136,
+  "longitude": 127.099768,
+  "tier": "regional",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": -3.143870967741936,
+      "avgRainfall": 20.240000000000002,
+      "avgSunshineHours": 7.481627903225805
+    },
+    {
+      "month": "02",
+      "avgTemp": -0.4262411347517731,
+      "avgRainfall": 15.680000000000001,
+      "avgSunshineHours": 8.113880634357766
+    },
+    {
+      "month": "03",
+      "avgTemp": 5.964516129032257,
+      "avgRainfall": 46,
+      "avgSunshineHours": 8.595661541218636
+    },
+    {
+      "month": "04",
+      "avgTemp": 12.732000000000003,
+      "avgRainfall": 63.14,
+      "avgSunshineHours": 9.1245165
+    },
+    {
+      "month": "05",
+      "avgTemp": 17.525161290322583,
+      "avgRainfall": 98.69999999999999,
+      "avgSunshineHours": 9.461906451612906
+    },
+    {
+      "month": "06",
+      "avgTemp": 22.778,
+      "avgRainfall": 157.98,
+      "avgSunshineHours": 9.489484240740742
+    },
+    {
+      "month": "07",
+      "avgTemp": 26.159999999999997,
+      "avgRainfall": 340.5199999999999,
+      "avgSunshineHours": 8.17940822580645
+    },
+    {
+      "month": "08",
+      "avgTemp": 26.425161290322585,
+      "avgRainfall": 266.06,
+      "avgSunshineHours": 9.137125896057348
+    },
+    {
+      "month": "09",
+      "avgTemp": 22.073509933774822,
+      "avgRainfall": 149.83333333333334,
+      "avgSunshineHours": 8.06915516924209
+    },
+    {
+      "month": "10",
+      "avgTemp": 14.288387096774196,
+      "avgRainfall": 90.88,
+      "avgSunshineHours": 7.4369318279569905
+    },
+    {
+      "month": "11",
+      "avgTemp": 6.890666666666663,
+      "avgRainfall": 55.260000000000005,
+      "avgSunshineHours": 7.6175588148148154
+    },
+    {
+      "month": "12",
+      "avgTemp": -1.4193548387096777,
+      "avgRainfall": 30.380000000000003,
+      "avgSunshineHours": 7.10246476702509
+    }
+  ]
+}

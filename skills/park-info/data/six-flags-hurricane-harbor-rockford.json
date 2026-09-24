@@ -1,0 +1,87 @@
+{
+  "id": 297,
+  "name": "Six Flags Hurricane Harbor, Rockford",
+  "slug": "six-flags-hurricane-harbor-rockford",
+  "company": "Six Flags Entertainment Corporation",
+  "countryIso": "US",
+  "regionCode": "US-IL",
+  "latitude": 42.2459,
+  "longitude": -88.9636,
+  "tier": "local",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": -6.009677419354839,
+      "avgRainfall": 43.86,
+      "avgSunshineHours": 5.700299444444444
+    },
+    {
+      "month": "02",
+      "avgTemp": -1.6921985815602834,
+      "avgRainfall": 36.36,
+      "avgSunshineHours": 7.676601379038612
+    },
+    {
+      "month": "03",
+      "avgTemp": 4.30774193548387,
+      "avgRainfall": 95.1,
+      "avgSunshineHours": 7.720966648745522
+    },
+    {
+      "month": "04",
+      "avgTemp": 9.641333333333336,
+      "avgRainfall": 121.04,
+      "avgSunshineHours": 8.477701018518514
+    },
+    {
+      "month": "05",
+      "avgTemp": 15.85419354838709,
+      "avgRainfall": 61.9,
+      "avgSunshineHours": 10.882962293906804
+    },
+    {
+      "month": "06",
+      "avgTemp": 21.596666666666664,
+      "avgRainfall": 93.55999999999999,
+      "avgSunshineHours": 11.818835092592591
+    },
+    {
+      "month": "07",
+      "avgTemp": 23.200645161290318,
+      "avgRainfall": 105.64000000000001,
+      "avgSunshineHours": 11.810853655913977
+    },
+    {
+      "month": "08",
+      "avgTemp": 21.978709677419353,
+      "avgRainfall": 86.40000000000002,
+      "avgSunshineHours": 11.33106901433692
+    },
+    {
+      "month": "09",
+      "avgTemp": 19.4158940397351,
+      "avgRainfall": 71.61666666666666,
+      "avgSunshineHours": 10.005304727740985
+    },
+    {
+      "month": "10",
+      "avgTemp": 12.830322580645168,
+      "avgRainfall": 79.2,
+      "avgSunshineHours": 8.390312043010752
+    },
+    {
+      "month": "11",
+      "avgTemp": 4.677333333333334,
+      "avgRainfall": 47.040000000000006,
+      "avgSunshineHours": 6.124347518518518
+    },
+    {
+      "month": "12",
+      "avgTemp": -1.0180645161290325,
+      "avgRainfall": 59.88000000000001,
+      "avgSunshineHours": 4.396816362007168
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": 46,
+  "name": "Six Flags White Water, Atlanta",
+  "slug": "six-flags-white-water-atlanta",
+  "company": "Six Flags Entertainment Corporation",
+  "countryIso": "US",
+  "regionCode": "US-GA",
+  "latitude": 33.958056,
+  "longitude": -84.521389,
+  "tier": "local",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": 5.2012903225806415,
+      "avgRainfall": 126.51999999999998,
+      "avgSunshineHours": 6.660836827956989
+    },
+    {
+      "month": "02",
+      "avgTemp": 9.482978723404255,
+      "avgRainfall": 118.82000000000001,
+      "avgSunshineHours": 7.5120403467297105
+    },
+    {
+      "month": "03",
+      "avgTemp": 12.93870967741935,
+      "avgRainfall": 124.86000000000001,
+      "avgSunshineHours": 9.055327616487455
+    },
+    {
+      "month": "04",
+      "avgTemp": 16.99,
+      "avgRainfall": 101.38,
+      "avgSunshineHours": 10.376202870370374
+    },
+    {
+      "month": "05",
+      "avgTemp": 20.689032258064508,
+      "avgRainfall": 164.32,
+      "avgSunshineHours": 10.284425824372757
+    },
+    {
+      "month": "06",
+      "avgTemp": 24.48333333333334,
+      "avgRainfall": 123.88000000000002,
+      "avgSunshineHours": 11.627036499999996
+    },
+    {
+      "month": "07",
+      "avgTemp": 26.21483870967741,
+      "avgRainfall": 161.52000000000004,
+      "avgSunshineHours": 11.48311750896057
+    },
+    {
+      "month": "08",
+      "avgTemp": 24.947096774193536,
+      "avgRainfall": 129.38,
+      "avgSunshineHours": 11.099767096774194
+    },
+    {
+      "month": "09",
+      "avgTemp": 22.750993377483443,
+      "avgRainfall": 118.95000000000003,
+      "avgSunshineHours": 10.216705463576162
+    },
+    {
+      "month": "10",
+      "avgTemp": 16.729677419354832,
+      "avgRainfall": 78.72,
+      "avgSunshineHours": 9.216305143369175
+    },
+    {
+      "month": "11",
+      "avgTemp": 11.621333333333336,
+      "avgRainfall": 60.279999999999994,
+      "avgSunshineHours": 7.865651944444447
+    },
+    {
+      "month": "12",
+      "avgTemp": 8.212903225806453,
+      "avgRainfall": 106.91999999999999,
+      "avgSunshineHours": 6.201005645161291
+    }
+  ]
+}

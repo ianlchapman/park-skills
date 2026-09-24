@@ -1,0 +1,87 @@
+{
+  "id": 70,
+  "name": "Michigan's Adventure",
+  "slug": "michigans-adventure",
+  "company": "Cedar Fair Entertainment Company",
+  "countryIso": "US",
+  "regionCode": "US-MI",
+  "latitude": 43.3474,
+  "longitude": -86.2789,
+  "tier": "local",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": -4.098064516129032,
+      "avgRainfall": 74.52000000000001,
+      "avgSunshineHours": 2.8295399462365594
+    },
+    {
+      "month": "02",
+      "avgTemp": -2.463120567375888,
+      "avgRainfall": 48.04,
+      "avgSunshineHours": 5.796245015760442
+    },
+    {
+      "month": "03",
+      "avgTemp": 2.509032258064517,
+      "avgRainfall": 117.58,
+      "avgSunshineHours": 6.9499888172043
+    },
+    {
+      "month": "04",
+      "avgTemp": 7.846000000000001,
+      "avgRainfall": 125.4,
+      "avgSunshineHours": 8.873942944444448
+    },
+    {
+      "month": "05",
+      "avgTemp": 14.403870967741932,
+      "avgRainfall": 79.82,
+      "avgSunshineHours": 10.98073811827957
+    },
+    {
+      "month": "06",
+      "avgTemp": 19.790666666666667,
+      "avgRainfall": 96.39999999999999,
+      "avgSunshineHours": 12.184385518518521
+    },
+    {
+      "month": "07",
+      "avgTemp": 22.22193548387098,
+      "avgRainfall": 76.48,
+      "avgSunshineHours": 12.521420107526884
+    },
+    {
+      "month": "08",
+      "avgTemp": 20.978709677419353,
+      "avgRainfall": 112.21999999999998,
+      "avgSunshineHours": 11.422256021505373
+    },
+    {
+      "month": "09",
+      "avgTemp": 18.08344370860928,
+      "avgRainfall": 54.61666666666667,
+      "avgSunshineHours": 9.932445014716707
+    },
+    {
+      "month": "10",
+      "avgTemp": 11.920645161290327,
+      "avgRainfall": 87.17999999999999,
+      "avgSunshineHours": 7.621911612903222
+    },
+    {
+      "month": "11",
+      "avgTemp": 4.679333333333333,
+      "avgRainfall": 72.5,
+      "avgSunshineHours": 5.006415777777774
+    },
+    {
+      "month": "12",
+      "avgTemp": -0.09032258064516148,
+      "avgRainfall": 78.02000000000001,
+      "avgSunshineHours": 2.8479721326164866
+    }
+  ]
+}

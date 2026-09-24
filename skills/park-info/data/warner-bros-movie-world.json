@@ -1,0 +1,87 @@
+{
+  "id": 342,
+  "name": "Warner Bros. Movie World",
+  "slug": "warner-bros-movie-world",
+  "company": "Village Roadshow Theme Parks",
+  "countryIso": "AU",
+  "regionCode": "AU-QLD",
+  "latitude": -27.9075,
+  "longitude": 153.3125,
+  "tier": "regional",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": 23.84322580645162,
+      "avgRainfall": 126.56000000000002,
+      "avgSunshineHours": 11.008752150537633
+    },
+    {
+      "month": "02",
+      "avgTemp": 23.615602836879432,
+      "avgRainfall": 197.16000000000003,
+      "avgSunshineHours": 10.537130122143425
+    },
+    {
+      "month": "03",
+      "avgTemp": 22.83483870967742,
+      "avgRainfall": 255.48000000000002,
+      "avgSunshineHours": 9.33486338709677
+    },
+    {
+      "month": "04",
+      "avgTemp": 20.45333333333334,
+      "avgRainfall": 103.78,
+      "avgSunshineHours": 10.046195370370375
+    },
+    {
+      "month": "05",
+      "avgTemp": 17.77483870967743,
+      "avgRainfall": 168.74,
+      "avgSunshineHours": 8.781753888888888
+    },
+    {
+      "month": "06",
+      "avgTemp": 15.186666666666664,
+      "avgRainfall": 32.6,
+      "avgSunshineHours": 9.181582425925932
+    },
+    {
+      "month": "07",
+      "avgTemp": 14.73870967741935,
+      "avgRainfall": 59.500000000000014,
+      "avgSunshineHours": 8.813490286738352
+    },
+    {
+      "month": "08",
+      "avgTemp": 16.15354838709678,
+      "avgRainfall": 59.260000000000005,
+      "avgSunshineHours": 9.576148924731186
+    },
+    {
+      "month": "09",
+      "avgTemp": 18.089403973509945,
+      "avgRainfall": 40.766666666666666,
+      "avgSunshineHours": 10.509456070640173
+    },
+    {
+      "month": "10",
+      "avgTemp": 20.394838709677426,
+      "avgRainfall": 130.95999999999998,
+      "avgSunshineHours": 10.731658817204297
+    },
+    {
+      "month": "11",
+      "avgTemp": 21.639999999999993,
+      "avgRainfall": 165.24,
+      "avgSunshineHours": 10.16443387037037
+    },
+    {
+      "month": "12",
+      "avgTemp": 23.198709677419345,
+      "avgRainfall": 144.6,
+      "avgSunshineHours": 11.611335071684586
+    }
+  ]
+}

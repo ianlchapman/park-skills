@@ -1,0 +1,87 @@
+{
+  "id": 303,
+  "name": "Le Pal",
+  "slug": "le-pal",
+  "company": "Other",
+  "countryIso": "FR",
+  "regionCode": "FR-ARA",
+  "latitude": 46.507222,
+  "longitude": 3.630556,
+  "tier": "local",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": 3.8167741935483894,
+      "avgRainfall": 65.08000000000001,
+      "avgSunshineHours": 3.8824663082437274
+    },
+    {
+      "month": "02",
+      "avgTemp": 6.283687943262414,
+      "avgRainfall": 62.14,
+      "avgSunshineHours": 5.734725433412135
+    },
+    {
+      "month": "03",
+      "avgTemp": 8.284516129032257,
+      "avgRainfall": 74.75999999999999,
+      "avgSunshineHours": 8.302497096774191
+    },
+    {
+      "month": "04",
+      "avgTemp": 11.002000000000002,
+      "avgRainfall": 68.06,
+      "avgSunshineHours": 9.471635259259257
+    },
+    {
+      "month": "05",
+      "avgTemp": 15.38,
+      "avgRainfall": 83.62,
+      "avgSunshineHours": 11.006575931899638
+    },
+    {
+      "month": "06",
+      "avgTemp": 20.632000000000005,
+      "avgRainfall": 87.24,
+      "avgSunshineHours": 12.290105148148147
+    },
+    {
+      "month": "07",
+      "avgTemp": 21.806451612903228,
+      "avgRainfall": 46.17999999999999,
+      "avgSunshineHours": 12.960570734767025
+    },
+    {
+      "month": "08",
+      "avgTemp": 21.930967741935483,
+      "avgRainfall": 62.660000000000004,
+      "avgSunshineHours": 11.767246594982085
+    },
+    {
+      "month": "09",
+      "avgTemp": 16.988741721854304,
+      "avgRainfall": 79.71666666666665,
+      "avgSunshineHours": 9.385192880794701
+    },
+    {
+      "month": "10",
+      "avgTemp": 13.683225806451617,
+      "avgRainfall": 99.29999999999998,
+      "avgSunshineHours": 7.441878799283156
+    },
+    {
+      "month": "11",
+      "avgTemp": 7.868000000000002,
+      "avgRainfall": 91.25999999999999,
+      "avgSunshineHours": 4.948173296296295
+    },
+    {
+      "month": "12",
+      "avgTemp": 5.052903225806452,
+      "avgRainfall": 87.7,
+      "avgSunshineHours": 3.7920428494623657
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": 286,
+  "name": "Hansa Park",
+  "slug": "hansa-park",
+  "company": "Other",
+  "countryIso": "DE",
+  "regionCode": "DE-SH",
+  "latitude": 54.0769,
+  "longitude": 10.78,
+  "tier": "regional",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": 2.6154838709677417,
+      "avgRainfall": 62.64,
+      "avgSunshineHours": 3.062208458781362
+    },
+    {
+      "month": "02",
+      "avgTemp": 3.2319148936170228,
+      "avgRainfall": 59.61999999999999,
+      "avgSunshineHours": 4.424173640661938
+    },
+    {
+      "month": "03",
+      "avgTemp": 5.537419354838709,
+      "avgRainfall": 32.42,
+      "avgSunshineHours": 8.08182204301075
+    },
+    {
+      "month": "04",
+      "avgTemp": 8.034666666666666,
+      "avgRainfall": 49.02,
+      "avgSunshineHours": 10.281158351851852
+    },
+    {
+      "month": "05",
+      "avgTemp": 12.973548387096773,
+      "avgRainfall": 47.4,
+      "avgSunshineHours": 12.556205537634407
+    },
+    {
+      "month": "06",
+      "avgTemp": 16.809999999999995,
+      "avgRainfall": 66.34,
+      "avgSunshineHours": 13.106577574074072
+    },
+    {
+      "month": "07",
+      "avgTemp": 17.986451612903224,
+      "avgRainfall": 96.18,
+      "avgSunshineHours": 12.059774229390682
+    },
+    {
+      "month": "08",
+      "avgTemp": 18.468387096774197,
+      "avgRainfall": 46.940000000000005,
+      "avgSunshineHours": 11.283257275985664
+    },
+    {
+      "month": "09",
+      "avgTemp": 15.750331125827813,
+      "avgRainfall": 60.099999999999994,
+      "avgSunshineHours": 9.42511272994849
+    },
+    {
+      "month": "10",
+      "avgTemp": 11.595483870967742,
+      "avgRainfall": 68.82000000000001,
+      "avgSunshineHours": 5.854377043010752
+    },
+    {
+      "month": "11",
+      "avgTemp": 6.611333333333337,
+      "avgRainfall": 55.8,
+      "avgSunshineHours": 3.19650037037037
+    },
+    {
+      "month": "12",
+      "avgTemp": 3.748387096774196,
+      "avgRainfall": 63.580000000000005,
+      "avgSunshineHours": 2.0565264695340493
+    }
+  ]
+}

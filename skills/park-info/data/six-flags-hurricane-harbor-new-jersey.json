@@ -1,0 +1,87 @@
+{
+  "id": 44,
+  "name": "Six Flags Hurricane Harbor New Jersey",
+  "slug": "six-flags-hurricane-harbor-new-jersey",
+  "company": "Six Flags Entertainment Corporation",
+  "countryIso": "US",
+  "regionCode": "US-NJ",
+  "latitude": 40.137697,
+  "longitude": -74.440458,
+  "tier": "local",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": 0.28967741935483854,
+      "avgRainfall": 91.58000000000001,
+      "avgSunshineHours": 5.972525286738353
+    },
+    {
+      "month": "02",
+      "avgTemp": 1.733333333333333,
+      "avgRainfall": 71.38000000000001,
+      "avgSunshineHours": 7.273671020488574
+    },
+    {
+      "month": "03",
+      "avgTemp": 7.12387096774194,
+      "avgRainfall": 112.34,
+      "avgSunshineHours": 7.954553172043008
+    },
+    {
+      "month": "04",
+      "avgTemp": 11.984666666666667,
+      "avgRainfall": 107.38,
+      "avgSunshineHours": 9.056567592592593
+    },
+    {
+      "month": "05",
+      "avgTemp": 16.750322580645157,
+      "avgRainfall": 105.97999999999999,
+      "avgSunshineHours": 9.496783458781367
+    },
+    {
+      "month": "06",
+      "avgTemp": 22.379333333333335,
+      "avgRainfall": 82.47999999999999,
+      "avgSunshineHours": 11.091110981481481
+    },
+    {
+      "month": "07",
+      "avgTemp": 25.3541935483871,
+      "avgRainfall": 114.68000000000002,
+      "avgSunshineHours": 11.401885268817205
+    },
+    {
+      "month": "08",
+      "avgTemp": 23.38129032258063,
+      "avgRainfall": 101.74,
+      "avgSunshineHours": 10.877533763440862
+    },
+    {
+      "month": "09",
+      "avgTemp": 20.13774834437087,
+      "avgRainfall": 90.33333333333333,
+      "avgSunshineHours": 9.02113147534952
+    },
+    {
+      "month": "10",
+      "avgTemp": 14.574193548387106,
+      "avgRainfall": 93.94,
+      "avgSunshineHours": 8.318986559139791
+    },
+    {
+      "month": "11",
+      "avgTemp": 8.142000000000003,
+      "avgRainfall": 62.36,
+      "avgSunshineHours": 7.48325748148148
+    },
+    {
+      "month": "12",
+      "avgTemp": 3.2083870967741945,
+      "avgRainfall": 111.85999999999999,
+      "avgSunshineHours": 5.894968297491038
+    }
+  ]
+}

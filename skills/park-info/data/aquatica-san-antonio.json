@@ -1,0 +1,87 @@
+{
+  "id": 306,
+  "name": "Aquatica San Antonio",
+  "slug": "aquatica-san-antonio",
+  "company": "SeaWorld Parks & Entertainment",
+  "countryIso": "US",
+  "regionCode": "US-TX",
+  "latitude": 29.45930638,
+  "longitude": -98.69817399,
+  "tier": "local",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": 11.16516129032259,
+      "avgRainfall": 50.120000000000005,
+      "avgSunshineHours": 7.481252043010752
+    },
+    {
+      "month": "02",
+      "avgTemp": 14.113475177304966,
+      "avgRainfall": 38.16000000000001,
+      "avgSunshineHours": 7.890303171788806
+    },
+    {
+      "month": "03",
+      "avgTemp": 18.912258064516134,
+      "avgRainfall": 67.88,
+      "avgSunshineHours": 8.866918781361997
+    },
+    {
+      "month": "04",
+      "avgTemp": 21.952000000000012,
+      "avgRainfall": 119.64000000000001,
+      "avgSunshineHours": 8.825840574074078
+    },
+    {
+      "month": "05",
+      "avgTemp": 25.19290322580645,
+      "avgRainfall": 148.45999999999998,
+      "avgSunshineHours": 10.094729964157704
+    },
+    {
+      "month": "06",
+      "avgTemp": 28.690666666666676,
+      "avgRainfall": 73.61999999999998,
+      "avgSunshineHours": 11.852144629629626
+    },
+    {
+      "month": "07",
+      "avgTemp": 29.316774193548373,
+      "avgRainfall": 96.3,
+      "avgSunshineHours": 11.710769999999997
+    },
+    {
+      "month": "08",
+      "avgTemp": 30.210967741935487,
+      "avgRainfall": 43.36000000000001,
+      "avgSunshineHours": 12.032355698924734
+    },
+    {
+      "month": "09",
+      "avgTemp": 28.024503311258275,
+      "avgRainfall": 42.43333333333333,
+      "avgSunshineHours": 11.004139624724058
+    },
+    {
+      "month": "10",
+      "avgTemp": 23.419999999999998,
+      "avgRainfall": 84.7,
+      "avgSunshineHours": 9.818397491039425
+    },
+    {
+      "month": "11",
+      "avgTemp": 16.958000000000006,
+      "avgRainfall": 79.8,
+      "avgSunshineHours": 7.683401314814817
+    },
+    {
+      "month": "12",
+      "avgTemp": 14.79290322580645,
+      "avgRainfall": 34.839999999999996,
+      "avgSunshineHours": 6.6935663978494615
+    }
+  ]
+}

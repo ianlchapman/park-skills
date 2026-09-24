@@ -1,0 +1,87 @@
+{
+  "id": 97,
+  "name": "Adventure Island",
+  "slug": "adventure-island",
+  "company": "SeaWorld Parks & Entertainment",
+  "countryIso": "US",
+  "regionCode": "US-FL",
+  "latitude": 28.04174441,
+  "longitude": -82.4131981,
+  "tier": "local",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": 14.934838709677416,
+      "avgRainfall": 72.12,
+      "avgSunshineHours": 8.387590681003584
+    },
+    {
+      "month": "02",
+      "avgTemp": 17.693617021276598,
+      "avgRainfall": 54.839999999999996,
+      "avgSunshineHours": 9.431615937746253
+    },
+    {
+      "month": "03",
+      "avgTemp": 20.67096774193549,
+      "avgRainfall": 78.03999999999999,
+      "avgSunshineHours": 10.25618921146953
+    },
+    {
+      "month": "04",
+      "avgTemp": 23.227333333333323,
+      "avgRainfall": 60.48,
+      "avgSunshineHours": 11.616095796296296
+    },
+    {
+      "month": "05",
+      "avgTemp": 26.018709677419345,
+      "avgRainfall": 120.14000000000001,
+      "avgSunshineHours": 11.983079641577058
+    },
+    {
+      "month": "06",
+      "avgTemp": 26.84799999999999,
+      "avgRainfall": 175.42,
+      "avgSunshineHours": 11.528547407407409
+    },
+    {
+      "month": "07",
+      "avgTemp": 27.519354838709685,
+      "avgRainfall": 212.02000000000004,
+      "avgSunshineHours": 11.118774444444446
+    },
+    {
+      "month": "08",
+      "avgTemp": 27.404516129032256,
+      "avgRainfall": 238.8,
+      "avgSunshineHours": 10.648204641577065
+    },
+    {
+      "month": "09",
+      "avgTemp": 25.98211920529801,
+      "avgRainfall": 179.4666666666667,
+      "avgSunshineHours": 9.602419039735096
+    },
+    {
+      "month": "10",
+      "avgTemp": 23.1974193548387,
+      "avgRainfall": 112.2,
+      "avgSunshineHours": 9.775161469534046
+    },
+    {
+      "month": "11",
+      "avgTemp": 19.674666666666667,
+      "avgRainfall": 51.46,
+      "avgSunshineHours": 8.713756925925924
+    },
+    {
+      "month": "12",
+      "avgTemp": 17.477419354838702,
+      "avgRainfall": 51.32000000000001,
+      "avgSunshineHours": 8.273079086021502
+    }
+  ]
+}

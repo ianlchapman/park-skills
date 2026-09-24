@@ -1,0 +1,87 @@
+{
+  "id": 318,
+  "name": "Cinecittà World",
+  "slug": "cinecittà-world",
+  "company": "Other",
+  "countryIso": "IT",
+  "regionCode": "IT-62",
+  "latitude": 41.709032,
+  "longitude": 12.44673,
+  "tier": "local",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": 9.121290322580652,
+      "avgRainfall": 92.75999999999999,
+      "avgSunshineHours": 7.029936093189964
+    },
+    {
+      "month": "02",
+      "avgTemp": 10.003546099290778,
+      "avgRainfall": 83.08,
+      "avgSunshineHours": 8.402478920409772
+    },
+    {
+      "month": "03",
+      "avgTemp": 11.479354838709675,
+      "avgRainfall": 91.22,
+      "avgSunshineHours": 9.272231810035844
+    },
+    {
+      "month": "04",
+      "avgTemp": 14.311333333333332,
+      "avgRainfall": 59.88000000000001,
+      "avgSunshineHours": 11.142423240740746
+    },
+    {
+      "month": "05",
+      "avgTemp": 18.56451612903226,
+      "avgRainfall": 85.02000000000001,
+      "avgSunshineHours": 11.911135483870966
+    },
+    {
+      "month": "06",
+      "avgTemp": 24.404000000000007,
+      "avgRainfall": 37.48,
+      "avgSunshineHours": 13.536390092592596
+    },
+    {
+      "month": "07",
+      "avgTemp": 27.24258064516128,
+      "avgRainfall": 14.26,
+      "avgSunshineHours": 13.901414014336908
+    },
+    {
+      "month": "08",
+      "avgTemp": 26.901290322580643,
+      "avgRainfall": 43.980000000000004,
+      "avgSunshineHours": 12.683273870967746
+    },
+    {
+      "month": "09",
+      "avgTemp": 22.438410596026493,
+      "avgRainfall": 74.30000000000001,
+      "avgSunshineHours": 10.930980813097866
+    },
+    {
+      "month": "10",
+      "avgTemp": 18.292903225806466,
+      "avgRainfall": 78.66,
+      "avgSunshineHours": 8.79398231182796
+    },
+    {
+      "month": "11",
+      "avgTemp": 13.446666666666669,
+      "avgRainfall": 132.85999999999999,
+      "avgSunshineHours": 7.167436888888892
+    },
+    {
+      "month": "12",
+      "avgTemp": 10.172258064516125,
+      "avgRainfall": 101.13999999999999,
+      "avgSunshineHours": 6.709174641577062
+    }
+  ]
+}

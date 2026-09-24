@@ -1,0 +1,87 @@
+{
+  "id": 322,
+  "name": "Familypark",
+  "slug": "familypark",
+  "company": "Compagnie des Alpes",
+  "countryIso": "AT",
+  "regionCode": "AT-1",
+  "latitude": 47.801597,
+  "longitude": 16.646089,
+  "tier": "local",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": 1.7561290322580658,
+      "avgRainfall": 33.34000000000001,
+      "avgSunshineHours": 4.521069695340503
+    },
+    {
+      "month": "02",
+      "avgTemp": 4.659574468085105,
+      "avgRainfall": 29.699999999999996,
+      "avgSunshineHours": 6.533469011032309
+    },
+    {
+      "month": "03",
+      "avgTemp": 7.972258064516131,
+      "avgRainfall": 41.12,
+      "avgSunshineHours": 8.556234318996408
+    },
+    {
+      "month": "04",
+      "avgTemp": 11.407333333333323,
+      "avgRainfall": 50.21999999999999,
+      "avgSunshineHours": 9.57246624074074
+    },
+    {
+      "month": "05",
+      "avgTemp": 16.276774193548388,
+      "avgRainfall": 56.06,
+      "avgSunshineHours": 11.107137670250895
+    },
+    {
+      "month": "06",
+      "avgTemp": 21.41333333333333,
+      "avgRainfall": 66.97999999999999,
+      "avgSunshineHours": 12.833713370370376
+    },
+    {
+      "month": "07",
+      "avgTemp": 22.94516129032258,
+      "avgRainfall": 47.540000000000006,
+      "avgSunshineHours": 12.42576315412186
+    },
+    {
+      "month": "08",
+      "avgTemp": 22.889677419354847,
+      "avgRainfall": 55.239999999999995,
+      "avgSunshineHours": 11.75182901433692
+    },
+    {
+      "month": "09",
+      "avgTemp": 17.75298013245033,
+      "avgRainfall": 69.26666666666667,
+      "avgSunshineHours": 9.096100901398092
+    },
+    {
+      "month": "10",
+      "avgTemp": 12.732903225806446,
+      "avgRainfall": 51.3,
+      "avgSunshineHours": 7.793028745519711
+    },
+    {
+      "month": "11",
+      "avgTemp": 6.111333333333331,
+      "avgRainfall": 54.52,
+      "avgSunshineHours": 5.191219055555556
+    },
+    {
+      "month": "12",
+      "avgTemp": 2.676774193548388,
+      "avgRainfall": 42.83999999999999,
+      "avgSunshineHours": 3.7879905376344096
+    }
+  ]
+}

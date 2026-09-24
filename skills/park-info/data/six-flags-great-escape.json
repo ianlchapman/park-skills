@@ -1,0 +1,87 @@
+{
+  "id": 45,
+  "name": "Six Flags Great Escape",
+  "slug": "six-flags-great-escape",
+  "company": "Six Flags Entertainment Corporation",
+  "countryIso": "US",
+  "regionCode": "US-NY",
+  "latitude": 43.350991,
+  "longitude": -73.690112,
+  "tier": "local",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": -5.398709677419353,
+      "avgRainfall": 75.04,
+      "avgSunshineHours": 5.042422921146951
+    },
+    {
+      "month": "02",
+      "avgTemp": -4.2503546099290785,
+      "avgRainfall": 57.71999999999999,
+      "avgSunshineHours": 6.856382407407406
+    },
+    {
+      "month": "03",
+      "avgTemp": 1.5999999999999996,
+      "avgRainfall": 103.81999999999998,
+      "avgSunshineHours": 7.339033924731186
+    },
+    {
+      "month": "04",
+      "avgTemp": 7.913333333333335,
+      "avgRainfall": 94.78,
+      "avgSunshineHours": 8.260031611111112
+    },
+    {
+      "month": "05",
+      "avgTemp": 14.463225806451623,
+      "avgRainfall": 100.51999999999998,
+      "avgSunshineHours": 10.063429677419355
+    },
+    {
+      "month": "06",
+      "avgTemp": 19.537333333333343,
+      "avgRainfall": 102.67999999999999,
+      "avgSunshineHours": 11.032331740740739
+    },
+    {
+      "month": "07",
+      "avgTemp": 22.783225806451604,
+      "avgRainfall": 137.95999999999998,
+      "avgSunshineHours": 12.038932168458784
+    },
+    {
+      "month": "08",
+      "avgTemp": 20.536129032258078,
+      "avgRainfall": 98.32,
+      "avgSunshineHours": 11.202521971326165
+    },
+    {
+      "month": "09",
+      "avgTemp": 17.243046357615896,
+      "avgRainfall": 79.26666666666667,
+      "avgSunshineHours": 9.555819205298011
+    },
+    {
+      "month": "10",
+      "avgTemp": 11.237419354838718,
+      "avgRainfall": 102.64000000000001,
+      "avgSunshineHours": 7.951722652329748
+    },
+    {
+      "month": "11",
+      "avgTemp": 3.7753333333333314,
+      "avgRainfall": 75.1,
+      "avgSunshineHours": 6.5407909259259265
+    },
+    {
+      "month": "12",
+      "avgTemp": -1.7470967741935484,
+      "avgRainfall": 105.47999999999999,
+      "avgSunshineHours": 4.792083763440862
+    }
+  ]
+}

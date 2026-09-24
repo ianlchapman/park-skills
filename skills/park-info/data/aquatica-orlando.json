@@ -1,0 +1,87 @@
+{
+  "id": 94,
+  "name": "Aquatica Orlando",
+  "slug": "aquatica-orlando",
+  "company": "SeaWorld Parks & Entertainment",
+  "countryIso": "US",
+  "regionCode": "US-FL",
+  "latitude": 28.41543304,
+  "longitude": -81.45566791,
+  "tier": "regional",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": 14.98580645161291,
+      "avgRainfall": 52.88000000000001,
+      "avgSunshineHours": 8.271428942652337
+    },
+    {
+      "month": "02",
+      "avgTemp": 17.860992907801425,
+      "avgRainfall": 55.6,
+      "avgSunshineHours": 9.15653256501182
+    },
+    {
+      "month": "03",
+      "avgTemp": 20.728387096774185,
+      "avgRainfall": 73.42,
+      "avgSunshineHours": 10.127736469534053
+    },
+    {
+      "month": "04",
+      "avgTemp": 22.61399999999999,
+      "avgRainfall": 87.67999999999999,
+      "avgSunshineHours": 11.50577266666667
+    },
+    {
+      "month": "05",
+      "avgTemp": 25.53096774193548,
+      "avgRainfall": 158.44,
+      "avgSunshineHours": 11.699923172043011
+    },
+    {
+      "month": "06",
+      "avgTemp": 26.55666666666666,
+      "avgRainfall": 211.28000000000003,
+      "avgSunshineHours": 11.312186648148145
+    },
+    {
+      "month": "07",
+      "avgTemp": 27.4458064516129,
+      "avgRainfall": 209.92,
+      "avgSunshineHours": 11.288143136200722
+    },
+    {
+      "month": "08",
+      "avgTemp": 27.186451612903223,
+      "avgRainfall": 254.83999999999997,
+      "avgSunshineHours": 10.832016738351255
+    },
+    {
+      "month": "09",
+      "avgTemp": 25.672847682119208,
+      "avgRainfall": 277.55,
+      "avgSunshineHours": 9.648505261221482
+    },
+    {
+      "month": "10",
+      "avgTemp": 22.94709677419354,
+      "avgRainfall": 103.97999999999999,
+      "avgSunshineHours": 9.732048261648744
+    },
+    {
+      "month": "11",
+      "avgTemp": 19.671333333333333,
+      "avgRainfall": 80.61999999999999,
+      "avgSunshineHours": 8.410753500000002
+    },
+    {
+      "month": "12",
+      "avgTemp": 17.47419354838711,
+      "avgRainfall": 56.779999999999994,
+      "avgSunshineHours": 8.219306630824374
+    }
+  ]
+}

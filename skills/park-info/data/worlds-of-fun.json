@@ -1,0 +1,87 @@
+{
+  "id": 63,
+  "name": "Worlds of Fun",
+  "slug": "worlds-of-fun",
+  "company": "Cedar Fair Entertainment Company",
+  "countryIso": "US",
+  "regionCode": "US-MO",
+  "latitude": 39.177333,
+  "longitude": -94.489028,
+  "tier": "local",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": -2.3548387096774177,
+      "avgRainfall": 46.3,
+      "avgSunshineHours": 6.601560824372762
+    },
+    {
+      "month": "02",
+      "avgTemp": 2.4531914893617013,
+      "avgRainfall": 33.38000000000001,
+      "avgSunshineHours": 8.31975949566588
+    },
+    {
+      "month": "03",
+      "avgTemp": 8.66387096774193,
+      "avgRainfall": 82.22,
+      "avgSunshineHours": 8.288334408602148
+    },
+    {
+      "month": "04",
+      "avgTemp": 13.77266666666666,
+      "avgRainfall": 134.94,
+      "avgSunshineHours": 9.343552277777778
+    },
+    {
+      "month": "05",
+      "avgTemp": 18.96387096774194,
+      "avgRainfall": 153.88000000000002,
+      "avgSunshineHours": 10.604560017921143
+    },
+    {
+      "month": "06",
+      "avgTemp": 24.31733333333333,
+      "avgRainfall": 143.26000000000002,
+      "avgSunshineHours": 12.211378037037031
+    },
+    {
+      "month": "07",
+      "avgTemp": 26.113548387096785,
+      "avgRainfall": 158.28,
+      "avgSunshineHours": 11.893136182795699
+    },
+    {
+      "month": "08",
+      "avgTemp": 25.125161290322573,
+      "avgRainfall": 93.74,
+      "avgSunshineHours": 11.387527670250895
+    },
+    {
+      "month": "09",
+      "avgTemp": 22.439735099337756,
+      "avgRainfall": 59.61666666666667,
+      "avgSunshineHours": 10.592825974981602
+    },
+    {
+      "month": "10",
+      "avgTemp": 15.752903225806447,
+      "avgRainfall": 110.85999999999999,
+      "avgSunshineHours": 8.738502741935484
+    },
+    {
+      "month": "11",
+      "avgTemp": 7.593999999999998,
+      "avgRainfall": 75.91999999999999,
+      "avgSunshineHours": 7.415152481481478
+    },
+    {
+      "month": "12",
+      "avgTemp": 3.036774193548386,
+      "avgRainfall": 44.339999999999996,
+      "avgSunshineHours": 6.195768870967739
+    }
+  ]
+}

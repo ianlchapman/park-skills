@@ -1,0 +1,87 @@
+{
+  "id": 327,
+  "name": "Le Parc du Petit Prince",
+  "slug": "le-parc-du-petit-prince",
+  "company": "Other",
+  "countryIso": "FR",
+  "regionCode": "FR-GES",
+  "latitude": 47.860539,
+  "longitude": 7.297752,
+  "tier": "local",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": 2.9367741935483878,
+      "avgRainfall": 79.66000000000001,
+      "avgSunshineHours": 4.59375111111111
+    },
+    {
+      "month": "02",
+      "avgTemp": 5.593617021276596,
+      "avgRainfall": 66.2,
+      "avgSunshineHours": 5.865914814814814
+    },
+    {
+      "month": "03",
+      "avgTemp": 7.854838709677419,
+      "avgRainfall": 57.879999999999995,
+      "avgSunshineHours": 8.49878964157706
+    },
+    {
+      "month": "04",
+      "avgTemp": 10.852666666666664,
+      "avgRainfall": 74.99999999999999,
+      "avgSunshineHours": 9.625238925925926
+    },
+    {
+      "month": "05",
+      "avgTemp": 15.90258064516129,
+      "avgRainfall": 66.7,
+      "avgSunshineHours": 11.50864410394266
+    },
+    {
+      "month": "06",
+      "avgTemp": 21.37599999999999,
+      "avgRainfall": 53.260000000000005,
+      "avgSunshineHours": 12.67718727777778
+    },
+    {
+      "month": "07",
+      "avgTemp": 21.732258064516124,
+      "avgRainfall": 56.17999999999999,
+      "avgSunshineHours": 13.150654659498207
+    },
+    {
+      "month": "08",
+      "avgTemp": 21.9,
+      "avgRainfall": 67,
+      "avgSunshineHours": 11.750050412186377
+    },
+    {
+      "month": "09",
+      "avgTemp": 16.94701986754967,
+      "avgRainfall": 65.56666666666666,
+      "avgSunshineHours": 9.421421707137599
+    },
+    {
+      "month": "10",
+      "avgTemp": 12.827096774193544,
+      "avgRainfall": 75.07999999999998,
+      "avgSunshineHours": 7.327751057347674
+    },
+    {
+      "month": "11",
+      "avgTemp": 6.593333333333334,
+      "avgRainfall": 89.68,
+      "avgSunshineHours": 4.932217388888889
+    },
+    {
+      "month": "12",
+      "avgTemp": 4.151612903225806,
+      "avgRainfall": 83.08,
+      "avgSunshineHours": 4.051134032258064
+    }
+  ]
+}

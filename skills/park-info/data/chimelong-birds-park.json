@@ -1,0 +1,87 @@
+{
+  "id": 331,
+  "name": "Chimelong Birds Park",
+  "slug": "chimelong-birds-park",
+  "company": "Chimelong Group",
+  "countryIso": "CN",
+  "regionCode": "CN-GD",
+  "latitude": 23.025,
+  "longitude": 113.277,
+  "tier": "local",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": 15.641935483870965,
+      "avgRainfall": 17.66,
+      "avgSunshineHours": 7.611153709677421
+    },
+    {
+      "month": "02",
+      "avgTemp": 16.857446808510627,
+      "avgRainfall": 63.64,
+      "avgSunshineHours": 6.23508223010244
+    },
+    {
+      "month": "03",
+      "avgTemp": 20.329677419354834,
+      "avgRainfall": 126.3,
+      "avgSunshineHours": 6.505060161290323
+    },
+    {
+      "month": "04",
+      "avgTemp": 23.811333333333334,
+      "avgRainfall": 246.64000000000001,
+      "avgSunshineHours": 7.264666685185182
+    },
+    {
+      "month": "05",
+      "avgTemp": 25.573548387096785,
+      "avgRainfall": 292.1,
+      "avgSunshineHours": 7.144805286738349
+    },
+    {
+      "month": "06",
+      "avgTemp": 27.870666666666658,
+      "avgRainfall": 407.2600000000001,
+      "avgSunshineHours": 7.75686264814815
+    },
+    {
+      "month": "07",
+      "avgTemp": 28.977419354838705,
+      "avgRainfall": 307.44000000000005,
+      "avgSunshineHours": 9.624839820788527
+    },
+    {
+      "month": "08",
+      "avgTemp": 28.425806451612885,
+      "avgRainfall": 351.58000000000004,
+      "avgSunshineHours": 8.467754247311829
+    },
+    {
+      "month": "09",
+      "avgTemp": 27.94172185430464,
+      "avgRainfall": 240.1833333333333,
+      "avgSunshineHours": 9.034238465783663
+    },
+    {
+      "month": "10",
+      "avgTemp": 25.050967741935462,
+      "avgRainfall": 116.28000000000002,
+      "avgSunshineHours": 8.376948655913978
+    },
+    {
+      "month": "11",
+      "avgTemp": 21.045333333333332,
+      "avgRainfall": 63.260000000000005,
+      "avgSunshineHours": 7.3834182407407445
+    },
+    {
+      "month": "12",
+      "avgTemp": 16.0058064516129,
+      "avgRainfall": 20.959999999999997,
+      "avgSunshineHours": 7.466087311827951
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": 42,
+  "name": "Six Flags America",
+  "slug": "six-flags-america",
+  "company": "Six Flags Entertainment Corporation",
+  "countryIso": "US",
+  "regionCode": "US-MD",
+  "latitude": 38.9062,
+  "longitude": -76.77257,
+  "tier": "local",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": 1.374838709677419,
+      "avgRainfall": 92.02,
+      "avgSunshineHours": 6.115126326164875
+    },
+    {
+      "month": "02",
+      "avgTemp": 3.8978723404255304,
+      "avgRainfall": 70.56,
+      "avgSunshineHours": 7.313312037037036
+    },
+    {
+      "month": "03",
+      "avgTemp": 9.250967741935483,
+      "avgRainfall": 103.8,
+      "avgSunshineHours": 8.170444139784948
+    },
+    {
+      "month": "04",
+      "avgTemp": 14.422000000000004,
+      "avgRainfall": 109.96,
+      "avgSunshineHours": 9.46667375925926
+    },
+    {
+      "month": "05",
+      "avgTemp": 18.00838709677419,
+      "avgRainfall": 128.7,
+      "avgSunshineHours": 9.503968548387098
+    },
+    {
+      "month": "06",
+      "avgTemp": 23.409333333333336,
+      "avgRainfall": 117.35999999999999,
+      "avgSunshineHours": 11.490533685185182
+    },
+    {
+      "month": "07",
+      "avgTemp": 25.80129032258064,
+      "avgRainfall": 161.2,
+      "avgSunshineHours": 11.610850913978494
+    },
+    {
+      "month": "08",
+      "avgTemp": 24.063225806451616,
+      "avgRainfall": 125.46,
+      "avgSunshineHours": 10.851097437275985
+    },
+    {
+      "month": "09",
+      "avgTemp": 21.114569536423843,
+      "avgRainfall": 105.16666666666667,
+      "avgSunshineHours": 9.062331272994848
+    },
+    {
+      "month": "10",
+      "avgTemp": 15.175483870967753,
+      "avgRainfall": 73.5,
+      "avgSunshineHours": 8.484566845878131
+    },
+    {
+      "month": "11",
+      "avgTemp": 9.058666666666666,
+      "avgRainfall": 51.92,
+      "avgSunshineHours": 7.817955537037034
+    },
+    {
+      "month": "12",
+      "avgTemp": 4.44967741935484,
+      "avgRainfall": 98.18,
+      "avgSunshineHours": 6.080965179211472
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": 292,
+  "name": "Six Flags Hurricane Harbor, Oaxtepec",
+  "slug": "six-flags-hurricane-harbor-oaxtepec",
+  "company": "Six Flags Entertainment Corporation",
+  "countryIso": "MX",
+  "regionCode": "MX",
+  "latitude": 18.8967,
+  "longitude": -98.9754,
+  "tier": "local",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": 19.85677419354839,
+      "avgRainfall": 7.6,
+      "avgSunshineHours": 10.500194193548385
+    },
+    {
+      "month": "02",
+      "avgTemp": 21.723404255319153,
+      "avgRainfall": 2.9,
+      "avgSunshineHours": 11.138861899133177
+    },
+    {
+      "month": "03",
+      "avgTemp": 24.043225806451623,
+      "avgRainfall": 1.9600000000000002,
+      "avgSunshineHours": 11.624141057347668
+    },
+    {
+      "month": "04",
+      "avgTemp": 25.71066666666666,
+      "avgRainfall": 4.8,
+      "avgSunshineHours": 12.12407640740741
+    },
+    {
+      "month": "05",
+      "avgTemp": 26.45161290322581,
+      "avgRainfall": 36.379999999999995,
+      "avgSunshineHours": 12.319712150537637
+    },
+    {
+      "month": "06",
+      "avgTemp": 23.679333333333332,
+      "avgRainfall": 141.14000000000001,
+      "avgSunshineHours": 11.427582129629632
+    },
+    {
+      "month": "07",
+      "avgTemp": 22.356774193548375,
+      "avgRainfall": 151.33999999999997,
+      "avgSunshineHours": 11.677382186379925
+    },
+    {
+      "month": "08",
+      "avgTemp": 22.174838709677424,
+      "avgRainfall": 132.16,
+      "avgSunshineHours": 11.30683304659498
+    },
+    {
+      "month": "09",
+      "avgTemp": 21.576821192053004,
+      "avgRainfall": 150.01666666666665,
+      "avgSunshineHours": 10.343814128035325
+    },
+    {
+      "month": "10",
+      "avgTemp": 20.716129032258063,
+      "avgRainfall": 88.92,
+      "avgSunshineHours": 10.366536111111113
+    },
+    {
+      "month": "11",
+      "avgTemp": 20.33666666666666,
+      "avgRainfall": 11.040000000000001,
+      "avgSunshineHours": 10.777444148148149
+    },
+    {
+      "month": "12",
+      "avgTemp": 19.410967741935483,
+      "avgRainfall": 2.56,
+      "avgSunshineHours": 10.512067903225805
+    }
+  ]
+}

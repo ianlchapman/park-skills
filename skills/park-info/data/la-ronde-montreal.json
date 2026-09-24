@@ -1,0 +1,87 @@
+{
+  "id": 48,
+  "name": "La Ronde, Montreal",
+  "slug": "la-ronde-montreal",
+  "company": "Six Flags Entertainment Corporation",
+  "countryIso": "CA",
+  "regionCode": "CA-QC",
+  "latitude": 45.5225,
+  "longitude": -73.535,
+  "tier": "local",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": -8.70967741935484,
+      "avgRainfall": 67.94,
+      "avgSunshineHours": 4.348337706093189
+    },
+    {
+      "month": "02",
+      "avgTemp": -7.475177304964538,
+      "avgRainfall": 61.4,
+      "avgSunshineHours": 6.4476667060677695
+    },
+    {
+      "month": "03",
+      "avgTemp": -0.6367741935483873,
+      "avgRainfall": 84.99999999999999,
+      "avgSunshineHours": 6.783597616487454
+    },
+    {
+      "month": "04",
+      "avgTemp": 6.685333333333331,
+      "avgRainfall": 127.34,
+      "avgSunshineHours": 7.922416925925925
+    },
+    {
+      "month": "05",
+      "avgTemp": 14.301935483870967,
+      "avgRainfall": 95.26,
+      "avgSunshineHours": 9.73979306451613
+    },
+    {
+      "month": "06",
+      "avgTemp": 19.699333333333325,
+      "avgRainfall": 136.90000000000003,
+      "avgSunshineHours": 10.973323240740752
+    },
+    {
+      "month": "07",
+      "avgTemp": 22.576774193548392,
+      "avgRainfall": 113.23999999999998,
+      "avgSunshineHours": 11.820724713261646
+    },
+    {
+      "month": "08",
+      "avgTemp": 20.755483870967755,
+      "avgRainfall": 135.45999999999998,
+      "avgSunshineHours": 10.57730788530466
+    },
+    {
+      "month": "09",
+      "avgTemp": 17.216556291390724,
+      "avgRainfall": 66.24999999999999,
+      "avgSunshineHours": 9.415960007358356
+    },
+    {
+      "month": "10",
+      "avgTemp": 11.379354838709677,
+      "avgRainfall": 95.86000000000001,
+      "avgSunshineHours": 7.204761559139786
+    },
+    {
+      "month": "11",
+      "avgTemp": 3.014666666666669,
+      "avgRainfall": 80.22,
+      "avgSunshineHours": 5.200707370370366
+    },
+    {
+      "month": "12",
+      "avgTemp": -3.692258064516128,
+      "avgRainfall": 97.77999999999999,
+      "avgSunshineHours": 4.0912010573476705
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": 123,
+  "name": "Chimelong Ocean Kingdom",
+  "slug": "chimelong-ocean-kingdom",
+  "company": "Chimelong Group",
+  "countryIso": "CN",
+  "regionCode": "CN-GD",
+  "latitude": 22.101,
+  "longitude": 113.534,
+  "tier": "regional",
+  "rankedAirports": [],
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "monthlyWeather": [
+    {
+      "month": "01",
+      "avgTemp": 16.503870967741936,
+      "avgRainfall": 16.840000000000003,
+      "avgSunshineHours": 8.223887401433691
+    },
+    {
+      "month": "02",
+      "avgTemp": 17.397163120567367,
+      "avgRainfall": 48.38,
+      "avgSunshineHours": 7.031843262411349
+    },
+    {
+      "month": "03",
+      "avgTemp": 20.24774193548388,
+      "avgRainfall": 74.6,
+      "avgSunshineHours": 7.444975734767026
+    },
+    {
+      "month": "04",
+      "avgTemp": 23.810000000000013,
+      "avgRainfall": 142.68,
+      "avgSunshineHours": 8.53737124074074
+    },
+    {
+      "month": "05",
+      "avgTemp": 25.69548387096774,
+      "avgRainfall": 261.5,
+      "avgSunshineHours": 8.096363960573479
+    },
+    {
+      "month": "06",
+      "avgTemp": 27.979333333333326,
+      "avgRainfall": 339.15999999999997,
+      "avgSunshineHours": 8.559875074074077
+    },
+    {
+      "month": "07",
+      "avgTemp": 28.844516129032243,
+      "avgRainfall": 315.4799999999999,
+      "avgSunshineHours": 9.725097867383509
+    },
+    {
+      "month": "08",
+      "avgTemp": 28.39870967741935,
+      "avgRainfall": 351.75999999999993,
+      "avgSunshineHours": 8.72643037634409
+    },
+    {
+      "month": "09",
+      "avgTemp": 27.702649006622526,
+      "avgRainfall": 280.3833333333334,
+      "avgSunshineHours": 9.062426416482708
+    },
+    {
+      "month": "10",
+      "avgTemp": 25.32,
+      "avgRainfall": 207.51999999999998,
+      "avgSunshineHours": 8.27545879928316
+    },
+    {
+      "month": "11",
+      "avgTemp": 21.922666666666654,
+      "avgRainfall": 68.94000000000001,
+      "avgSunshineHours": 7.684668037037038
+    },
+    {
+      "month": "12",
+      "avgTemp": 17.32387096774194,
+      "avgRainfall": 29.02,
+      "avgSunshineHours": 8.004443369175629
+    }
+  ]
+}
