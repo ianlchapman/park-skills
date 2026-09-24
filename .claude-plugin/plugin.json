@@ -1,6 +1,6 @@
 {
   "name": "park-skills",
-  "description": "A list of theme park skills that can tell AI agents about theme parks",
+  "description": "Skills that give AI agents up-to-date theme park data: crowd levels, opening hours, and weather, for trip planning and park recommendations.",
   "version": "1.0.0",
   "author": {
     "name": "Ian Chapman"
