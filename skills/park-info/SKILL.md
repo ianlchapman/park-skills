@@ -1,12 +1,13 @@
 ---
 name: park-info
-description: Look up theme park data — crowd levels, opening hours, and weather — for a specific park by name. Use when the user asks about how busy a park will be, when it's open, what the weather/climate is like, or wants help picking a date to visit.
+description: Look up theme park data — crowd levels, opening hours, weather, nearest airports, and on-site hotels — for a specific park by name. Use when the user asks about how busy a park will be, when it's open, what the weather/climate is like, which airport to fly into, whether there's a hotel on-site, or wants help picking a date to visit.
 ---
 
 # park-info
 
 Per-park data for 141 theme parks worldwide: daily crowd predictions and
-opening hours (next ~12 months), plus historical monthly weather averages.
+opening hours (next ~12 months), historical monthly weather averages,
+nearest airports, and on-site resort hotels.
 
 ## Data location
 
@@ -99,6 +100,13 @@ will the weather be on [specific date]".
 - **Comparing multiple parks**: read each park's file, compare the same
   field across them (don't mix crowd score with weather when ranking
   unless asked to combine both).
+- **"Which airport should I fly into for X?"** Use `rankedAirports` (nearest
+  first). If it's empty, say airport data isn't available for that park
+  rather than guessing one.
+- **"Can I stay on-site at X?" / "What hotels are at X?"** Use `onSiteHotels`.
+  An empty list doesn't necessarily mean there's no on-site hotel — some
+  parks haven't been researched yet — so say you don't have that
+  information rather than stating there's definitely no on-site hotel.
 
 If a requested park has no matching file in `data/`, say so rather than
 guessing values.
