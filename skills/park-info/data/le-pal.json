@@ -15,6 +15,10 @@
     "GNB",
     "GVA"
   ],
+  "onSiteHotels": [
+    "Les Lodges du PAL",
+    "Le PAL Savana RESERVE"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

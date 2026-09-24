@@ -15,6 +15,7 @@
     "GRK",
     "PDS"
   ],
+  "onSiteHotels": [],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

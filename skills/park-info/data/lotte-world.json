@@ -15,6 +15,9 @@
     "CJJ",
     "YNY"
   ],
+  "onSiteHotels": [
+    "Lotte Hotel World"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

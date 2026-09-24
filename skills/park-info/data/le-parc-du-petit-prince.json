@@ -15,6 +15,9 @@
     "BRN",
     "FKB"
   ],
+  "onSiteHotels": [
+    "Les Loges"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

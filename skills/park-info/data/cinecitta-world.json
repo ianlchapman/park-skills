@@ -15,6 +15,9 @@
     "PSR",
     "NAP"
   ],
+  "onSiteHotels": [
+    "Hotel Park"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

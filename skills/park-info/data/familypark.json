@@ -15,6 +15,7 @@
     "SOB",
     "BRQ"
   ],
+  "onSiteHotels": [],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

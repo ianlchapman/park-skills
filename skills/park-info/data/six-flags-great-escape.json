@@ -15,6 +15,9 @@
     "SLK",
     "BTV"
   ],
+  "onSiteHotels": [
+    "Great Escape Lodge & Indoor Waterpark"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

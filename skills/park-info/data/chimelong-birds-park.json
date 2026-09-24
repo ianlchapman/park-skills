@@ -15,6 +15,11 @@
     "MFM",
     "HKG"
   ],
+  "onSiteHotels": [
+    "Chimelong Hotel",
+    "Chimelong Panda Hotel",
+    "Panyu Xiangjiang Hotel"
+  ],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

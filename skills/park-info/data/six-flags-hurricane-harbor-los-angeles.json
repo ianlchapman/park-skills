@@ -15,6 +15,7 @@
     "LGB",
     "ONT"
   ],
+  "onSiteHotels": [],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {

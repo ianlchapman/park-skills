@@ -15,6 +15,7 @@
     "MLB",
     "DAB"
   ],
+  "onSiteHotels": [],
   "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
   "monthlyWeather": [
     {
