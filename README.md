@@ -5,6 +5,8 @@ A collection of Claude Code skills that give AI agents up-to-date knowledge abou
 ## Skills
 
 - [`park-info`](skills/park-info) — per-park crowd calendar, opening hours, and monthly weather.
+- [`park-trip-plan`](skills/park-trip-plan) — plan a full trip to a single park: dates, flights, hotel, and itinerary.
+- [`multi-park-trip-plan`](skills/multi-park-trip-plan) — plan a multi-park/multi-destination trip: routing, dates per stop, flights/transfers, hotels, and itinerary.
 
 ## Data
 
