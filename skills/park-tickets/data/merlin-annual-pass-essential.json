@@ -1,0 +1,30 @@
+{
+  "id": "merlin-annual-pass-essential",
+  "name": "Essential Pass",
+  "operator": "Merlin Entertainments",
+  "parkIds": [
+    1,
+    2,
+    3,
+    27
+  ],
+  "parkSlugs": [
+    "alton-towers",
+    "thorpe-park",
+    "chessington-world-of-adventures",
+    "legoland-windsor"
+  ],
+  "type": "annual_pass",
+  "pricing": {
+    "currency": "GBP",
+    "adult": 139
+  },
+  "validity": {
+    "season": "2026",
+    "lastChecked": "2026-09-25",
+    "windowDays": 339,
+    "notes": "339 days' entry per year (not full year); has ~25 blackout/exclusion dates across Dec 2025-Dec 2027, listed in full terms"
+  },
+  "confidence": "low",
+  "notes": "Covers 20+ UK Merlin attractions (Alton Towers, Thorpe Park, Chessington, LEGOLAND Windsor plus non-park venues like SEA LIFE not tracked in this dataset). No separate child/concession price shown on pricing page; children under ~0.9m tall may enter free without their own pass per general Merlin policy, but this pass page doesn't confirm that. Adult-only price shown."
+}

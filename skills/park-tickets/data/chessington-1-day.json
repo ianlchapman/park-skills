@@ -1,0 +1,24 @@
+{
+  "id": "chessington-1-day",
+  "name": "1 Day Ticket",
+  "operator": "Merlin Entertainments",
+  "parkIds": [
+    3
+  ],
+  "parkSlugs": [
+    "chessington-world-of-adventures"
+  ],
+  "type": "single_day",
+  "numDays": 1,
+  "pricing": {
+    "currency": "GBP",
+    "adult": 32
+  },
+  "validity": {
+    "season": "2026",
+    "lastChecked": "2026-09-25",
+    "notes": "Price varies by date; peak/fast-selling days cost more. Includes Theme Park, Zoo, and SEA LIFE Aquarium access"
+  },
+  "confidence": "low",
+  "notes": "'From' price for cheapest available date, booked online; walk-up (on the day, unbooked) price is £68. Under 90cm go free (height-based, not a fixed child age/price tier) - no separate adult/child price shown."
+}

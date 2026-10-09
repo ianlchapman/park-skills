@@ -1,0 +1,30 @@
+{
+  "id": "portaventura-ferrari-3day-2park",
+  "name": "3 Days 2 Parks (PortAventura + Ferrari Land)",
+  "operator": "PortAventura World",
+  "parkIds": [
+    19,
+    277
+  ],
+  "parkSlugs": [
+    "portaventura-park",
+    "ferrari-land"
+  ],
+  "type": "multi_day",
+  "numDays": 3,
+  "pricing": {
+    "currency": "EUR",
+    "adult": 77,
+    "child": 69,
+    "senior": 69,
+    "childAgeMax": 10,
+    "seniorAgeMin": 60
+  },
+  "validity": {
+    "season": "2026",
+    "lastChecked": "2026-09-25",
+    "notes": "Adult band is ages 11-59; Junior/Senior band combines ages 4-10 and 60+ into one shared price"
+  },
+  "confidence": "low",
+  "notes": "'From' discounted online price; undiscounted price shown as €90 (adult)/€81 (junior/senior). Ticket-booth walk-up price from €56 (adult). Prices vary by date. Excludes 2-parks-in-1-day combo tickets that also include Caribe Aquatic Park (untracked, no park_id in this dataset) - those exist on the source site but aren't modelled here."
+}

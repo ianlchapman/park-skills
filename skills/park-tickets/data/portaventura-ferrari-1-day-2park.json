@@ -1,0 +1,30 @@
+{
+  "id": "portaventura-ferrari-1-day-2park",
+  "name": "1 Day 2 Parks (PortAventura + Ferrari Land)",
+  "operator": "PortAventura World",
+  "parkIds": [
+    19,
+    277
+  ],
+  "parkSlugs": [
+    "portaventura-park",
+    "ferrari-land"
+  ],
+  "type": "single_day",
+  "numDays": 1,
+  "pricing": {
+    "currency": "EUR",
+    "adult": 44,
+    "child": 40,
+    "senior": 40,
+    "childAgeMax": 10,
+    "seniorAgeMin": 60
+  },
+  "validity": {
+    "season": "2026",
+    "lastChecked": "2026-09-25",
+    "notes": "Adult band is ages 11-59; Junior/Senior band combines ages 4-10 and 60+ into one shared price; same-day access to both parks"
+  },
+  "confidence": "low",
+  "notes": "'From' discounted online price; undiscounted price shown as €55 (adult)/€50 (junior/senior). Ticket-booth walk-up price from €36 (adult). Prices vary by date."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "portaventura-night-ticket",
+  "name": "Night Ticket",
+  "operator": "PortAventura World",
+  "parkIds": [
+    19
+  ],
+  "parkSlugs": [
+    "portaventura-park"
+  ],
+  "type": "single_day",
+  "numDays": 1,
+  "pricing": {
+    "currency": "EUR",
+    "adult": 36,
+    "child": 32,
+    "senior": 32,
+    "childAgeMax": 10,
+    "seniorAgeMin": 60
+  },
+  "validity": {
+    "season": "2026",
+    "lastChecked": "2026-09-25",
+    "notes": "Adult band is ages 11-59; Junior/Senior band combines ages 4-10 and 60+ into one shared price; valid 5:00pm until close"
+  },
+  "confidence": "low",
+  "notes": "Ticket-booth walk-up price from €24 (adult). Prices vary by date."
+}

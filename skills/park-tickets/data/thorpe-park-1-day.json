@@ -1,0 +1,24 @@
+{
+  "id": "thorpe-park-1-day",
+  "name": "Standard 1 Day Ticket",
+  "operator": "Merlin Entertainments",
+  "parkIds": [
+    2
+  ],
+  "parkSlugs": [
+    "thorpe-park"
+  ],
+  "type": "single_day",
+  "numDays": 1,
+  "pricing": {
+    "currency": "GBP",
+    "adult": 32
+  },
+  "validity": {
+    "season": "2026",
+    "lastChecked": "2026-09-25",
+    "notes": "Pre-booking required to guarantee entry; includes 'Island Return Guarantee' free return-visit offer"
+  },
+  "confidence": "low",
+  "notes": "'From' price for cheapest available date, booked online. Standard walk-up price not shown (only shown for the separate Fright Nights ticket variant: online from £39, walk-up £66). Children under 1.2m go free (height-based, not a fixed child age/price tier) - no separate adult/child price shown."
+}

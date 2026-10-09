@@ -1,0 +1,24 @@
+{
+  "id": "legoland-windsor-annual-pass",
+  "name": "LEGOLAND Windsor Annual Pass",
+  "operator": "Merlin Entertainments",
+  "parkIds": [
+    27
+  ],
+  "parkSlugs": [
+    "legoland-windsor"
+  ],
+  "type": "annual_pass",
+  "pricing": {
+    "currency": "GBP",
+    "adult": 64
+  },
+  "validity": {
+    "season": "2026",
+    "lastChecked": "2026-09-25",
+    "windowDays": 365,
+    "notes": "Single-park annual pass"
+  },
+  "confidence": " not the multi-park Merlin Annual Pass",
+  "notes": "low,\"Separate product from merlin-annual-pass-essential/gold/platinum which cover multiple parks. Adult-only price shown, no child tier shown.\""
+}
