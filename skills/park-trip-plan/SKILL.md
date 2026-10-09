@@ -11,9 +11,10 @@ generic travel advice.
 
 This skill orchestrates other tools rather than replacing them. Use
 **park-info** for all park data (crowds, hours, weather, airports, on-site
-hotels). Use whatever flight/hotel search skills or tools are available
-(e.g. flight or hotel search skills) for live pricing and availability — don't
-invent fares, hotel rates, or availability.
+hotels). Use **park-tickets** for ticket/pass pricing for the park. Use
+whatever flight/hotel search skills or tools are available (e.g. flight or
+hotel search skills) for live pricing and availability — don't invent
+fares, hotel rates, or availability.
 
 ## Required inputs
 
@@ -46,15 +47,20 @@ state them rather than blocking on minor details):
    home location for the origin side. Search with an available flight tool
    for the chosen dates; if none is available, describe what to search for
    (route, dates, cabin) rather than fabricating fares.
-4. **Hotel.** Check `onSiteHotels` first — an on-site stay is usually the
+4. **Tickets.** Look up ticket options with park-tickets: the standard
+   1-day ticket price for the visit dates, and whether a multi-day ticket
+   or pass is cheaper than buying single days if the trip covers multiple
+   park days. Flag add-ons (fast-track, parking) only if the user mentions
+   wanting to skip lines or is driving.
+5. **Hotel.** Check `onSiteHotels` first — an on-site stay is usually the
    right default recommendation for a single-park trip (shorter transfers,
    early park access if the park offers it). If none exists or the user
    wants alternatives, use an available hotel search tool for nearby
    options. If no hotel tool is available, say so rather than guessing rates.
-5. **Day-by-day shape.** For the park day(s): note opening/closing times from
+6. **Day-by-day shape.** For the park day(s): note opening/closing times from
    the crowd calendar, and suggest arrival time (before opening on
    high-crowd days, more relaxed on low-crowd days). Leave travel days light.
-6. **Sanity-check against weather, and build in contingency.** If
+7. **Sanity-check against weather, and build in contingency.** If
    `monthlyWeather` shows high rainfall or extreme temperature for the
    chosen month, flag it and suggest packing/planning implications — don't
    just omit it because it's inconvenient. For a multi-day trip in a
@@ -62,7 +68,7 @@ state them rather than blocking on minor details):
    flexible/unstructured day) over a single tightly-packed park day, so one
    washed-out day doesn't sink the whole trip. Say explicitly which day (if
    any) is the rain-day buffer.
-7. **Ground transport.** Don't jump straight from flights to hotel — include
+8. **Ground transport.** Don't jump straight from flights to hotel — include
    the airport-to-hotel/park leg (rental car, shuttle, taxi, transit) using
    an available tool where possible, or state what to arrange if none is
    available. Factor realistic transfer time into the arrival day's
@@ -77,11 +83,13 @@ Present the finished plan consistently, in this order:
    dates chosen (or a note on the given dates' crowd/weather).
 2. **Flights** — outbound/return, airport(s), and what was found (or what to
    search if no live tool was available).
-3. **Hotel** — recommendation with reasoning (on-site vs. off-site), and
+3. **Tickets** — ticket type recommended (1-day vs. multi-day vs. pass),
+   price per person, and any relevant add-ons.
+4. **Hotel** — recommendation with reasoning (on-site vs. off-site), and
    what was found.
-4. **Day-by-day plan** — one line/short block per day: travel days, park
+5. **Day-by-day plan** — one line/short block per day: travel days, park
    day(s) with opening hours and suggested arrival, any rest/buffer days.
-5. **Notes/caveats** — weather flags, data gaps (e.g. "no on-site hotel data
+6. **Notes/caveats** — weather flags, data gaps (e.g. "no on-site hotel data
    for this park"), anything assumed rather than confirmed.
 
 Keep it scannable — headings and short bullets, not dense prose. State
@@ -101,6 +109,9 @@ assumptions or general advice, so the user knows what still needs booking.
 
 ### Getting there
 - [Airport] → [hotel/park]: [mode, est. time] — [found option or "search: ..."]
+
+### Tickets
+- [Ticket type] — [price per person], [multi-day/pass note if cheaper], [add-ons if relevant]
 
 ### Hotel
 - [Hotel name] ([on-site/off-site]) — [why], [found rate or "search: ..."]

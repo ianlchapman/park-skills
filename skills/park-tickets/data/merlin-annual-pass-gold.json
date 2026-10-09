@@ -1,0 +1,29 @@
+{
+  "id": "merlin-annual-pass-gold",
+  "name": "Gold Pass",
+  "operator": "Merlin Entertainments",
+  "parkIds": [
+    1,
+    2,
+    3,
+    27
+  ],
+  "parkSlugs": [
+    "alton-towers",
+    "thorpe-park",
+    "chessington-world-of-adventures",
+    "legoland-windsor"
+  ],
+  "type": "annual_pass",
+  "pricing": {
+    "currency": "GBP",
+    "adult": 239
+  },
+  "validity": {
+    "season": "2026",
+    "lastChecked": "2026-09-25",
+    "notes": "Full calendar-year entry; excludes Alton Towers Fireworks event and specific November dates; promotional 'Buy 2027, Get Rest of 2026 Free' offer active at time of check (not reflected in this price)"
+  },
+  "confidence": "low",
+  "notes": "Same coverage caveat as Essential Pass (20+ UK attractions, only park-type venues tracked here are listed in park_ids). Monthly payment option also available at £19.99/month, not modelled here. Adult-only price shown."
+}

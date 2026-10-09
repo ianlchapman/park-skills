@@ -1,0 +1,23 @@
+{
+  "parkId": 320,
+  "parkSlug": "panoramagique",
+  "parkName": "PanoraMagique",
+  "attractions": [
+    {
+      "id": "panoramagique-panoramagique-balloon",
+      "name": "PanoraMagique Balloon",
+      "area": "Disney Village",
+      "type": "Family",
+      "thrill": 1,
+      "minHeightCm": 0,
+      "singleRider": false,
+      "openingYear": 2005,
+      "manufacturer": "Aerophile",
+      "description": "Helium tethered balloon with a six-minute flight over Lake Disney; carries up to 30 passengers.",
+      "sourceUrl": "https://panoramagique.com/panoramagique/le-ballon",
+      "lastChecked": "2026-10-09",
+      "confidence": "high",
+      "notes": "No height restriction published. Not available to pregnant women; strollers must be left on the platform."
+    }
+  ]
+}

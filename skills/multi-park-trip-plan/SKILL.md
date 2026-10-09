@@ -10,7 +10,11 @@ destination (e.g. several Orlando parks) or spread across a route (e.g.
 Efteling → Phantasialand → Europa-Park). Builds on the same building blocks
 as `park-trip-plan`, applied per stop, plus routing/sequencing across stops.
 
-Use **park-info** for all per-park data. Use whatever flight/hotel/transfer
+Use **park-info** for all per-park data. Use **park-tickets** for ticket/pass
+pricing per stop — check whether a combo/multi-park pass covers two or more
+of the selected stops before pricing single-park tickets separately (tickets
+list all covered `parkSlugs`, so grep for the trip's parks and prefer a combo
+ticket if one exists and is cheaper). Use whatever flight/hotel/transfer
 search skills or tools are available for live pricing and availability —
 don't invent fares, hotel rates, or availability. For a trip that turns out
 to only involve one park, use `park-trip-plan` instead.
@@ -75,12 +79,17 @@ state them):
    sense to stay close to that park; otherwise use an available hotel
    search tool for a base convenient to that leg (or to two clustered
    parks). If no hotel tool is available, say so rather than guessing rates.
-8. **Day-by-day shape.** Build a single continuous itinerary across the
+8. **Tickets per stop.** Look up park-tickets for each stop. Check for a
+   combo/multi-park pass covering two or more selected stops before pricing
+   single-park tickets separately for those stops — a cheaper combo ticket
+   should replace, not sit alongside, the individual single-day tickets it
+   covers.
+9. **Day-by-day shape.** Build a single continuous itinerary across the
    whole trip: travel/transfer days, each park's visit day(s) with opening
    hours and suggested arrival, and buffer days for long transfers or rest.
-9. **Sanity-check against weather** for each stop's month, and flag anything
-   that materially affects the plan (heavy rain, extreme heat, etc.).
-10. **Cross-border check.** If stops span more than one country, flag
+10. **Sanity-check against weather** for each stop's month, and flag anything
+    that materially affects the plan (heavy rain, extreme heat, etc.).
+11. **Cross-border check.** If stops span more than one country, flag
     currency changes and time zone changes per stop (dates/times in the
     plan should always be stated as local to that stop), and note if travel
     documents (visas, ID requirements) might be relevant — without
@@ -99,10 +108,12 @@ Present the finished plan consistently, in this order:
 3. **Flights/transfers** — inbound, each inter-stop leg, and the return;
    what was found (or what to search if no live tool was available).
 4. **Hotels** — one per stop (or per cluster), with reasoning.
-5. **Day-by-day plan** — one line/short block per day across the whole trip:
+5. **Tickets** — per stop (or one combined line if a multi-park pass covers
+   several stops), ticket type and price per person.
+6. **Day-by-day plan** — one line/short block per day across the whole trip:
    travel days, each park day with opening hours and suggested arrival,
    rest/buffer days.
-6. **Notes/caveats** — weather flags, data gaps, tight-timing warnings,
+7. **Notes/caveats** — weather flags, data gaps, tight-timing warnings,
    anything assumed rather than confirmed.
 
 Keep it scannable — headings and short bullets per stop, not dense prose.
@@ -130,6 +141,10 @@ advice, so the user knows what still needs booking.
 ### Hotels
 - Stop 1: [Hotel] ([on-site/off-site]) — [why]
 - Stop 2: [Hotel] ([on-site/off-site]) — [why]
+
+### Tickets
+- Stop 1: [Ticket type] — [price per person]
+- Stop 2: [Ticket type] — [price per person] [or: combo ticket covering stops 1 & 2 — [price per person]]
 
 ### Day by day
 - Day 1 ([date]): Travel — arrive [stop 1], [transfer]
