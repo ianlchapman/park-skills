@@ -1,0 +1,24 @@
+{
+  "id": "alton-towers-1-day",
+  "name": "1 Day Pass",
+  "operator": "Merlin Entertainments",
+  "parkIds": [
+    1
+  ],
+  "parkSlugs": [
+    "alton-towers"
+  ],
+  "type": "single_day",
+  "numDays": 1,
+  "pricing": {
+    "currency": "GBP",
+    "adult": 32
+  },
+  "validity": {
+    "season": "2026",
+    "lastChecked": "2026-09-25",
+    "notes": "Pre-booking required to guarantee entry; sold-out dates are unavailable"
+  },
+  "confidence": "low",
+  "notes": "'From' price for cheapest available date, booked online; walk-up (on the day, unbooked) price is £68. Children under 90cm go free (height-based, not a fixed child age/price tier) - no separate adult/child price shown."
+}

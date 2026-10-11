@@ -1,0 +1,28 @@
+{
+  "id": "portaventura-park-2-day",
+  "name": "2 Days PortAventura Park",
+  "operator": "PortAventura World",
+  "parkIds": [
+    19
+  ],
+  "parkSlugs": [
+    "portaventura-park"
+  ],
+  "type": "multi_day",
+  "numDays": 2,
+  "pricing": {
+    "currency": "EUR",
+    "adult": 46,
+    "child": 41,
+    "senior": 41,
+    "childAgeMax": 10,
+    "seniorAgeMin": 60
+  },
+  "validity": {
+    "season": "2026",
+    "lastChecked": "2026-09-25",
+    "notes": "Adult band is ages 11-59; Junior/Senior band combines ages 4-10 and 60+ into one shared price"
+  },
+  "confidence": "low",
+  "notes": "'From' discounted online price; undiscounted price shown as €65 (adult)/€59 (junior/senior). Ticket-booth walk-up price from €26 (adult). Prices vary by date."
+}

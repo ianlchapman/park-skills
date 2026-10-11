@@ -1,0 +1,24 @@
+{
+  "id": "legoland-windsor-1-day",
+  "name": "Online Saver",
+  "operator": "Merlin Entertainments",
+  "parkIds": [
+    27
+  ],
+  "parkSlugs": [
+    "legoland-windsor"
+  ],
+  "type": "single_day",
+  "numDays": 1,
+  "pricing": {
+    "currency": "GBP",
+    "adult": 32
+  },
+  "validity": {
+    "season": "2026",
+    "lastChecked": "2026-09-25",
+    "notes": "Book in advance and save up to £36 (off-peak dates, March-October); guaranteed entry when pre-booked online"
+  },
+  "confidence": "low",
+  "notes": "'From' price for cheapest available date, booked online; standard/walk-up price is £68. Children under 90cm go free (height-based, not a fixed child age/price tier) - no separate adult/child price shown."
+}

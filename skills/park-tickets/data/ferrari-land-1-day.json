@@ -1,0 +1,28 @@
+{
+  "id": "ferrari-land-1-day",
+  "name": "1 Day Ferrari Land",
+  "operator": "PortAventura World",
+  "parkIds": [
+    277
+  ],
+  "parkSlugs": [
+    "ferrari-land"
+  ],
+  "type": "single_day",
+  "numDays": 1,
+  "pricing": {
+    "currency": "EUR",
+    "adult": 19,
+    "child": 17,
+    "senior": 17,
+    "childAgeMax": 10,
+    "seniorAgeMin": 60
+  },
+  "validity": {
+    "season": "2026",
+    "lastChecked": "2026-09-25",
+    "notes": "Adult band is ages 11-59; Junior/Senior band combines ages 4-10 and 60+ into one shared price"
+  },
+  "confidence": "low",
+  "notes": "Ticket-booth walk-up price from €14 (adult). Prices vary by date."
+}
