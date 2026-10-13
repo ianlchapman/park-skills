@@ -42,7 +42,7 @@ Generated daily by an external pipeline. Don't hand-edit these files.
   "tier": "regional",
   "rankedAirports": [],
   "onSiteHotels": [],
-  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction\n2026-09-25,1,10:00,16:00,30.8\n...",
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,hoursEstimated,crowdPrediction\n2026-09-25,1,10:00,16:00,0,30.8\n...",
   "monthlyWeather": [
     { "month": "01", "avgTemp": 3.5, "avgRainfall": 75.3, "avgSunshineHours": 3.9 }
   ]
@@ -66,6 +66,7 @@ generation date:
 | `date` | `YYYY-MM-DD` |
 | `isOpen` | `1` open, `0` closed. When `0`, opening/closing times are blank |
 | `openingTime` / `closingTime` | 24h `HH:MM`, local to the park |
+| `hoursEstimated` | `1` when no schedule was on record for this date last year, so the hours are a typical-day guess. `0` is still a prediction from last year's schedule, not official hours — say so and point to the park's site |
 | `crowdPrediction` | 0–100 relative crowd score for that day. Higher = busier. Not a percentage of capacity — compare days to each other, not to an absolute scale |
 
 To answer questions, parse this CSV (split on `\n`, then `,`) rather than
