@@ -66,7 +66,7 @@ generation date:
 | `date` | `YYYY-MM-DD` |
 | `isOpen` | `1` open, `0` closed. When `0`, opening/closing times are blank |
 | `openingTime` / `closingTime` | 24h `HH:MM`, local to the park |
-| `hoursEstimated` | `1` when no schedule was on record for this date last year, so the hours are a typical-day guess. `0` is still a prediction from last year's schedule, not official hours — say so and point to the park's site |
+| `hoursEstimated` | `1` when the day's `isOpen`/times are predicted by the model, `0` when they come from the scraped park calendar (actual). The calendar only reaches a few weeks ahead, so most days are `1`. Say which it is and point to the park's site for anything important |
 | `crowdPrediction` | 0–100 relative crowd score for that day. Higher = busier. Not a percentage of capacity — compare days to each other, not to an absolute scale |
 
 To answer questions, parse this CSV (split on `\n`, then `,`) rather than
