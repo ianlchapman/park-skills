@@ -22,7 +22,7 @@
     "Chimelong Spaceship Hotel",
     "Chimelong Ying Hai Hotel"
   ],
-  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,hoursEstimated,crowdPrediction",
   "monthlyWeather": [
     {
       "month": "01",

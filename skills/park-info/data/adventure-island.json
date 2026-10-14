@@ -16,7 +16,7 @@
     "MCO"
   ],
   "onSiteHotels": [],
-  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,hoursEstimated,crowdPrediction",
   "monthlyWeather": [
     {
       "month": "01",

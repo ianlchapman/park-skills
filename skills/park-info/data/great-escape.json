@@ -18,7 +18,7 @@
   "onSiteHotels": [
     "Great Escape Lodge & Indoor Waterpark"
   ],
-  "crowdCalendar": "date,isOpen,openingTime,closingTime,crowdPrediction",
+  "crowdCalendar": "date,isOpen,openingTime,closingTime,hoursEstimated,crowdPrediction",
   "monthlyWeather": [
     {
       "month": "01",
