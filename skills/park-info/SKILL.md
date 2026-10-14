@@ -66,8 +66,8 @@ generation date:
 | `date` | `YYYY-MM-DD` |
 | `isOpen` | `1` open, `0` closed. When `0`, opening/closing times are blank |
 | `openingTime` / `closingTime` | 24h `HH:MM`, local to the park |
-| `hoursEstimated` | `1` when the day's `isOpen`/times are predicted by the model, `0` when they come from the scraped park calendar (actual). The calendar only reaches a few weeks ahead, so most days are `1`. Say which it is and point to the park's site for anything important |
-| `crowdPrediction` | 0–100 relative crowd score for that day. Higher = busier. Not a percentage of capacity — compare days to each other, not to an absolute scale |
+| `hoursEstimated` | `1` when the day's `isOpen`/times are predicted by the model, `0` when they come from the park's published calendar (actual). Parks publish at different lead times — some a season at a time, some a few months out — so typically only the next few months have `0` and the rest are `1`. Say which it is, and point to the park's site for anything important |
+| `crowdPrediction` | 0–100 relative crowd score for that day. Higher = busier. Not a percentage of capacity — compare days to each other, not to an absolute scale. Blank on days the park's calendar lists as closed (`isOpen` `0` with `hoursEstimated` `0`) |
 
 To answer questions, parse this CSV (split on `\n`, then `,`) rather than
 treating it as JSON. Only look at the date range the user cares about —
