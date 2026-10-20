@@ -14,6 +14,7 @@
       "singleRider": false,
       "openingYear": 1984,
       "manufacturer": "Mack Rides",
+      "model": "Powered Coaster",
       "seasons": [
         "summer",
         "halloween",
@@ -36,6 +37,7 @@
       "singleRider": false,
       "openingYear": 2022,
       "manufacturer": "Mack Rides",
+      "model": "Boat Ride",
       "seasons": [
         "summer",
         "halloween",
@@ -58,6 +60,7 @@
       "singleRider": false,
       "openingYear": 1978,
       "manufacturer": "Mack Rides",
+      "model": "Log Flume",
       "seasons": [
         "summer",
         "halloween"
@@ -78,6 +81,7 @@
       "singleRider": false,
       "openingYear": 2006,
       "manufacturer": "Zierer",
+      "model": "Wave Swinger",
       "seasons": [
         "summer",
         "halloween",
@@ -99,6 +103,7 @@
       "singleRider": true,
       "openingYear": 2024,
       "manufacturer": "Mack Rides",
+      "model": "Launched Coaster",
       "seasons": [
         "summer",
         "halloween",
@@ -120,7 +125,8 @@
       "accompaniedMinHeightCm": 100,
       "singleRider": false,
       "openingYear": 2006,
-      "manufacturer": "Bertazzone",
+      "manufacturer": "Bertazzon",
+      "model": "Bumper Cars",
       "seasons": [
         "summer",
         "halloween",
@@ -142,6 +148,7 @@
       "singleRider": false,
       "openingYear": 1983,
       "manufacturer": "Intamin",
+      "model": "Observation Tower",
       "seasons": [
         "summer",
         "halloween",
@@ -165,6 +172,7 @@
       "singleRider": true,
       "openingYear": 2018,
       "manufacturer": "Mack Rides",
+      "model": "Eurosat",
       "seasons": [
         "summer",
         "halloween",
@@ -187,6 +195,7 @@
       "singleRider": false,
       "openingYear": 2018,
       "manufacturer": "Mack Rides",
+      "model": "Omnimover",
       "seasons": [
         "summer",
         "halloween",
@@ -208,6 +217,7 @@
       "singleRider": false,
       "openingYear": 2002,
       "manufacturer": "Bolliger & Mabillard",
+      "model": "Hyper Coaster",
       "seasons": [
         "summer",
         "halloween",
@@ -252,6 +262,7 @@
       "singleRider": true,
       "openingYear": 2017,
       "manufacturer": "Brogent / Kraftwerk Living Technologies",
+      "model": "Flying Theater",
       "seasons": [
         "summer",
         "halloween",
@@ -274,6 +285,7 @@
       "singleRider": false,
       "openingYear": 2007,
       "manufacturer": "Mack Rides",
+      "model": "Interactive Dark Ride",
       "seasons": [
         "summer",
         "halloween",
@@ -296,6 +308,7 @@
       "singleRider": false,
       "openingYear": 2006,
       "manufacturer": "Mack Rides",
+      "model": "Family Coaster",
       "seasons": [
         "summer",
         "halloween",
@@ -311,7 +324,7 @@
       "id": "europa-park-poseidon",
       "name": "Water Rollercoaster Poseidon",
       "area": "Greece",
-      "type": "Water",
+      "type": "Coaster",
       "thrill": 2,
       "minHeightCm": 130,
       "accompaniedMinHeightCm": 120,
@@ -339,6 +352,7 @@
       "singleRider": true,
       "openingYear": 2009,
       "manufacturer": "Mack Rides",
+      "model": "Launched Coaster",
       "seasons": [
         "summer",
         "halloween",
@@ -361,6 +375,7 @@
       "singleRider": false,
       "openingYear": 2010,
       "manufacturer": "Mack Rides",
+      "model": "Splash Battle",
       "seasons": [
         "summer",
         "halloween",
@@ -383,6 +398,7 @@
       "singleRider": true,
       "openingYear": 2012,
       "manufacturer": "Great Coasters International",
+      "model": "Wooden Coaster",
       "seasons": [
         "summer",
         "halloween",
@@ -405,6 +421,7 @@
       "singleRider": false,
       "openingYear": 2016,
       "manufacturer": "Mack Rides",
+      "model": "Junior Coaster",
       "seasons": [
         "summer",
         "halloween",
@@ -427,6 +444,7 @@
       "singleRider": false,
       "openingYear": 2016,
       "manufacturer": "Zierer",
+      "model": "Rockin' Tug",
       "seasons": [
         "summer",
         "halloween",
@@ -449,6 +467,7 @@
       "singleRider": false,
       "openingYear": 2016,
       "manufacturer": "Metallbau Emmeln",
+      "model": "Track Ride",
       "seasons": [
         "summer",
         "halloween",
@@ -493,6 +512,7 @@
       "singleRider": false,
       "openingYear": 2011,
       "manufacturer": "ETF Ride Systems",
+      "model": "Monorail",
       "seasons": [
         "summer",
         "halloween",
@@ -515,6 +535,7 @@
       "singleRider": false,
       "openingYear": 2025,
       "manufacturer": "Mack Rides",
+      "model": "Gameplay Theater",
       "seasons": [
         "summer",
         "halloween",
@@ -530,13 +551,14 @@
       "id": "europa-park-arthur",
       "name": "ARTHUR",
       "area": "Minimoys Kingdom",
-      "type": "Dark ride",
+      "type": "Coaster",
       "thrill": 2,
       "minHeightCm": 120,
       "accompaniedMinHeightCm": 100,
       "singleRider": true,
       "openingYear": 2014,
       "manufacturer": "Mack Rides",
+      "model": "Powered Coaster",
       "seasons": [
         "summer",
         "halloween",
@@ -559,6 +581,7 @@
       "singleRider": false,
       "openingYear": 2014,
       "manufacturer": "Zierer",
+      "model": "Drop Tower",
       "seasons": [
         "summer",
         "halloween",
@@ -581,6 +604,7 @@
       "singleRider": false,
       "openingYear": 2020,
       "manufacturer": "Mack Rides",
+      "model": "Boat Ride",
       "seasons": [
         "summer",
         "halloween",
@@ -603,6 +627,7 @@
       "singleRider": false,
       "openingYear": 2005,
       "manufacturer": "Mack Rides",
+      "model": "SuperSplash",
       "seasons": [
         "summer",
         "halloween",
@@ -617,13 +642,14 @@
       "id": "europa-park-euro-mir",
       "name": "Euro-Mir",
       "area": "Russia",
-      "type": "Flat ride",
+      "type": "Coaster",
       "thrill": 2,
       "minHeightCm": 130,
       "maxHeightCm": 195,
       "singleRider": false,
       "openingYear": 1997,
       "manufacturer": "Mack Rides",
+      "model": "Spinning Coaster",
       "seasons": [
         "summer",
         "halloween",
@@ -646,6 +672,7 @@
       "singleRider": false,
       "openingYear": 1991,
       "manufacturer": "Intamin",
+      "model": "Rapids River",
       "seasons": [
         "summer",
         "halloween"
@@ -687,7 +714,8 @@
       "accompaniedMinHeightCm": 100,
       "singleRider": false,
       "openingYear": 1993,
-      "manufacturer": "HUSS",
+      "manufacturer": "Huss",
+      "model": "Pirate Ship",
       "seasons": [
         "summer",
         "halloween",
@@ -710,6 +738,7 @@
       "singleRider": false,
       "openingYear": 1994,
       "manufacturer": "Mack Rides",
+      "model": "Musik Express",
       "seasons": [
         "summer",
         "halloween",
@@ -732,6 +761,7 @@
       "singleRider": false,
       "openingYear": 1999,
       "manufacturer": "Mack Rides",
+      "model": "Wild Mouse",
       "seasons": [
         "summer",
         "halloween",
@@ -754,6 +784,7 @@
       "singleRider": false,
       "openingYear": 1985,
       "manufacturer": "Mack Rides",
+      "model": "Bobsled Coaster",
       "seasons": [
         "summer",
         "halloween",

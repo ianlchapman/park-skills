@@ -13,6 +13,7 @@
       "singleRider": false,
       "openingYear": 2019,
       "manufacturer": "Aquarena",
+      "model": "AquaRocket",
       "seasons": [
         "summer",
         "halloween",
@@ -143,6 +144,7 @@
       "singleRider": false,
       "openingYear": 2019,
       "manufacturer": "Aquarena",
+      "model": "AquaRocket",
       "seasons": [
         "summer",
         "halloween",
@@ -393,6 +395,8 @@
       "minHeightCm": 125,
       "singleRider": false,
       "openingYear": 2019,
+      "manufacturer": "API Water Fun",
+      "model": "Lazy River",
       "seasons": [
         "summer",
         "halloween",
@@ -433,6 +437,8 @@
       "minHeightCm": 0,
       "singleRider": false,
       "openingYear": 2019,
+      "manufacturer": "Murphys Waves",
+      "model": "Wave Pool",
       "seasons": [
         "summer",
         "halloween",
@@ -477,7 +483,7 @@
       "accompaniedMinHeightCm": 90,
       "singleRider": false,
       "openingYear": 2022,
-      "manufacturer": "MACK Rides",
+      "manufacturer": "Mack Rides",
       "seasons": [
         "summer",
         "halloween",
@@ -541,6 +547,8 @@
       "minHeightCm": 125,
       "singleRider": false,
       "openingYear": 2019,
+      "manufacturer": "API Water Fun",
+      "model": "Rapids River",
       "seasons": [
         "summer",
         "halloween",
